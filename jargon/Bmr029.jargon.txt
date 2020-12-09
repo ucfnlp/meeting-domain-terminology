@@ -1,0 +1,97 @@
+recognition results
+Recognition results
+the  close-talking  microphone
+near-field results
+the far-field results
+Hub-five
+H_L_T
+cut the waveforms for that
+the far-field mikes
+what segmentations you want to use
+with different segmentation
+those segmentations
+the segmentations
+segmentations
+one of the P_Z_Ms
+the new segmentations
+run recognition o- just looking at the no overlap column
+do recognitions
+parallelize across different  speakers
+the H_L_T
+Robustness meetings
+run recognition
+compared to Robustness
+segmentations for these five Meeting Recorder meetings
+creating waveforms for the r- retraining the short male models
+which segmentations we're using
+retraining the short male models
+the far-mike H_T_K system
+the baseline word error rate
+the far-field
+cut the segments
+his segmentations
+the same segmentations
+the wavef- form segments
+the old segmentations
+speaker normalization
+a far-field microphone
+the far-field microphone
+the close-talking
+these new segmentations
+speaker adaptation
+cluster the segments
+the level of degradation that you get
+having the distant mike in a normal acoustic
+not applying speaker adaptation or applying speaker adaptation
+Hub-five sort of things
+feature normalization process
+cepstral mean subtraction
+the same segmentations that we use for the close-talking microphone
+the log spectral mean subtraction
+Segmentation
+channel F_
+the waveforms
+the waveform names
+this continuous stream from the individual utterance files
+individual utterance files
+the Macrophone
+in U_ doctor speech data S_R_I Hub-five
+Hub-five training set
+the long training set
+the  Macrophone  files
+T_I-digits t- t- experiments training on Macrophone
+the S_R_I Hub-five
+the  short  S_R_I Hu- Hub-five set
+trained on Macrophone
+the  entire  Macrophone corpus
+the Hub-five training set
+the Hub-five  small  training set
+the Hub-five small training set
+Macrophone
+wavefiles
+the normalizations you compute for your training speakers
+short models that were trained on  normalizations
+retrain short models
+S_R_I
+the short training set
+used the whole training set for normalizations
+his  normalizations
+the Macrophone data
+retrain the short models
+The segmentations
+synthesizers
+Synthesizers
+the SmartKom data collectioners
+a SUN workstation
+the synthesis
+the Festival speech s- s- system
+the SmartKom data collection
+a SmartKom workshop
+the SUN in the library
+the ts- F_zero thing
+prosodic
+use a pitch detector
+drive a synthesizer
+the F_zero targets
+a waveform
+the waveform

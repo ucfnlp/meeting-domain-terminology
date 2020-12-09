@@ -1,0 +1,70 @@
+the S_R_I System
+the S_R_I system
+training the H_M_ Ms
+using digits for training the H_M_Ms
+sub-phone states
+allophone models
+number of Gaussians
+the H_M_Ms
+the H_M_M models
+much better H_M_ Ms
+those H_M_Ms
+from our Aurora stuff
+the tandem and Aurora system
+occurrences of similar uh allophones
+the Aurora proposals
+different between T_I-digits and these digits
+are we getting on T_I-digits
+the  actual  T_I-digits database
+a simple H_T_K system
+the H_T_K is an older H_T_K
+the original T_I-digits database
+the T_I-digits
+T_I-digit
+the S_R_I results
+same data as in T_I-digits
+the  actual  T_I-digits
+stuff for Aurora
+the special session
+the good V_A_D in the system
+the new V_A_D
+France Telecom results
+this V_A_D
+you already have L_D_A applied
+the V_A_D should be before the L_D_A
+where did this good V_A_D come from
+from O_G_I
+the V_A_D
+make a V_A_D that's small
+a different V_A_D entirely
+let's use this V_A_D
+fix the V_A_D
+V_A_D or frame dropping
+requirement for this V_A_D
+the L_D_A filters
+M_S_G stream
+with M_S_G stream
+voiced-unvoiced decision
+the um F_F_T of the signal
+the um mel filter bank
+bigger statistic with TIMIT
+F_F_T of each frame
+with L_P_C model
+the mel filter bank
+a voiced-unvoiced
+for voiced-unvoiced
+spectral slope and so on
+to do good voiced-unvoiced detection
+the mel-filters
+the lower frequency mel-filters
+the mel-spectrum
+starting with the F_F_T
+factorial H_M_Ms
+these H_M_Ms
+the factorial H_M_Ms
+these factorial H_M_Ms
+looking at Avendano's work
+the D_C component
+these are called "time frequency representations"
+echo canceller implementation
+the echo canceller and looking at the echo canceller taps

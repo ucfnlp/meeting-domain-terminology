@@ -1,0 +1,51 @@
+mel cepstrum
+H_T_K training
+L_D_A
+K_L_T
+the Aurora-two
+the S_R_I
+the tandem system
+the language scaling
+the model scaling
+acoustic scaling
+the V_A_D
+the Aurora
+O_G_I
+the F_F_T spectrum
+mel filter bank spectrum
+Aurora
+the SpeechDat-Car
+the T_I-digits
+V_A_D
+Aurora-two
+B_B_N
+voiced-unvoiced
+M_S_G
+TIMIT
+M_S_G features
+P_L_P
+The M_S_G
+the M_S_G
+the P_L_P
+H_T_K
+a K_L_T
+the K_L_T
+T_I-digits
+SpeechDat-Car
+the spectral subtraction
+the system of Ericsson
+on-line normalization
+phonetic events
+an S_R_I system
+a Switchboard
+phoneme
+frication
+laxness
+the SPAM
+phonetic
+top-down
+probabilistic AND-OR model
+C_M_R co-modulation
+H_M_M
+H_M_M system
+Switchboard

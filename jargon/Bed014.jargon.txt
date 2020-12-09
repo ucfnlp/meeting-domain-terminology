@@ -1,0 +1,82 @@
+Sibilance
+the embedded Bayes
+a Bayes-net
+the Xalan style sheet processor
+the X_M_L that's output by the Java Bayes
+E_Bayes input
+the Java Bayes and the embedded Bayes
+a  concept-to-speech
+this concept-to-speech module
+prosodic
+syntax-to-prosody  rules
+that Scheme thing
+the LISP-type scheme
+Scheme
+the Scheme li- uh, stuff
+prosody
+Festival voices
+the SmartKom people
+Festival
+O_G_I
+diphone
+the whole SmartKom system
+the ICSI N_T machines
+running SmartKom systems
+the A_I i- intuition thing
+the "where is" construction
+these structured belief-nets
+mental spaces
+probabilistic relational models
+belief-net
+temporal  belief-nets
+dynamic  belief-nets
+" dynamic  belief-net"
+time  slices
+probabilistic relational  models
+belief  structure
+the belief-net
+an argument of a higher construction
+a bare singular stem
+context-free  trees
+first cut at the revised formalism
+the mental spaces part
+whether the polysemy is sort of like in the construction or pragmatic
+whether the construction is semantic or like ambiguous
+the Bayes-net
+pragmatic
+reading
+pragmatic implications
+E_M_L
+G_M_D
+The ontology
+an Enter schema
+the Enter schema
+priming a spreading activation
+Bayes-net
+Enter schemas
+the spreading activation
+a connectionist implementation
+the probabilities of EVA decisions
+forward chaining
+the lexical construction
+the lexical
+construction
+a V_ type
+an ontology
+dialogue module of SmartKom
+construal
+the N_T_L meeting
+the Speech-Gen meeting
+the "where is X_" construction
+the simspec
+Simspec
+semspec
+"semantic spec- specification"
+the semspec
+the sentence constructions
+the mental sum
+W_H constructions
+Skolemization
+Skolem constant
+a formal cognitive semantics
+context-free grammars

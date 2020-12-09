@@ -1,0 +1,101 @@
+my G_S_I
+I_C_I
+linguistic matter
+the E_D_U Project
+the SmartKom parser
+the SmartKom natural language generation
+the natural language generation
+sample generator output
+the concept-to-speech
+the language model of the recognizer and the dictionary
+the speech recognizer
+the Source-Path-Goal
+cost action
+Source-Path-Goal
+this "action schema"
+Source-Path-Goal actions
+forced motion and cost action actions
+Forced motion and caused action
+a Source-Path-Goal schema
+the Enter Source-Path-Goal
+the natural language understanding
+the action planning
+" RAD "
+this Source-Path-Goal schema
+the uh action schema
+the Source-Path-Goal schema
+The S- Action-schemas
+action schema
+slash action schema
+a dimensionality
+canonical
+the S_P_G schema
+an Enter, View, or Approach mode
+the Trajector
+the action schema section
+the Enter, View and Approach
+Source-Path-Goal specific roles
+X_schema
+this
+Source-Path-Goal schema
+other image schemas
+a force dynamics
+the action schema S_P_G schema
+the action schema
+the image schemas
+which action schema
+the S- Source-Path-Goal schema
+the W_-three-C_
+their X_path
+a v- very easy e- homogenous framework
+the M_-three-L_ A_P - A_P_I
+the action schemas
+X_  forms
+the S_P_G action
+F_M
+forced motion
+caused action
+S_P_G
+S_P_G action
+a forced motion
+an S_P_G action "Enter"
+S_P_G schema
+a forced  action  schema
+a Source-Path-Goal
+the slot of the S_P_G action
+the Enter-View-Approach
+the EVA
+Every S_P_G - every S_P_G action
+the Source-Path-Goal actions
+an S_P_G action
+Forced action or forced motion
+S_P_G_one action
+Enter-View-Approach
+action schemas
+Action schema
+Source-Path-Goal action
+a communication event action
+the sort of S_P_G slash something
+the sub-actions category
+a frame hierarchy
+these blended frames
+an S_P_G action"
+a Source-Path-Goal action
+an Enter-View-Approach
+an S_P_G schema
+the  deep  language understanding
+the action planner
+the Enter-View
+silence su- sublimination
+Enter-View
+sub-action item
+also maybe with a nice example that would be helpful for Johno and me
+intention lattice
+the R_A_D
+intention hypothesis
+image schemas
+our RAD
+RAD
+RAD's
+R_D_F - R_D_F
+"Resource Description Framework"

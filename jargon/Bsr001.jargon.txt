@@ -1,0 +1,40 @@
+class method
+class procedure
+topic segmentation
+P_D_A
+vectorized  speech  recognition algorithms
+I_RAM
+the I_RAM project
+deep technology
+the Meeting Recorder  project
+beam-forming
+the P_Z_Ms
+P_D_A system
+a NIST evaluation
+Switchboard
+MAESTRO project
+neural nets
+DARPA
+the A_DAT
+back-end
+environmental mikes
+the P_C_I card
+context free grammar
+natural language grammar
+ATIS-sized type task
+H_P_S_G
+unification base
+core technology
+core
+sampling rates
+sampling rate
+NIST
+Sphere files
+N_S_F
+L_D_C
+Robert's rules
+backchannels
+TIMIT
+T_I-digit strings
+the TIMIT sentences
+X_- X_Waves, Tcl-T_K, Perl, and maybe some C_ programs too

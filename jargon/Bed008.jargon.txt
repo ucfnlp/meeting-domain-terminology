@@ -1,0 +1,118 @@
+the influence links
+influence structure
+belief nodes
+belief-nets
+the general influence stuff
+Go-there
+the user model
+the situation model-A_
+these belief-net things
+your belief-nets
+a functioning belief-net
+the belief-net
+beliefs
+propagate beliefs
+a lazy mode
+proper
+E_V_A
+the ontology
+user model
+The prosody
+ontology items
+the object type node
+varies temporally
+entity type
+underscore-T_
+the user models
+java base
+underbar-U_
+underscore-E_
+move mode
+an ontology
+input from the discourse
+this user model
+a "fit" node
+a user model
+subgrouping
+Subgrouping
+C_B_T's
+discourse properties
+the Go-there decision
+the situation model
+the discourse model
+the E_V_A values
+Situation Go-there
+E_V_A thing
+"Go-there"
+the Go-there s- S_ node
+the Go-there node
+the Endpoint and the Go-there S_ node
+the Go-there
+the Endpoint node
+the Go-there S_
+the belief worl- net world
+loopy belief propagation
+the go there decision
+the rest of belief-net
+discourse-based decision nodes
+the discourse history
+the discourse
+gadget
+the sub-E_, sub-D_, sub-U_
+a sub-O_ - "O_" for "ontology"
+meta node
+a big C_P_T
+the E_V_A
+the knowledge engineering
+"endpoint"
+N_many belief-nets
+the end belief-nets
+decision nodes
+a belief-net
+ROVER, the ROVER decision
+ROVER
+P_
+Y_
+X_one, X_two
+X_N
+E_
+X_ um
+hat
+A_, V_, A_, E_
+and every single letter E_, s- give a number because that's
+X_ -
+X_one
+A_
+X_two
+V_
+W_one, W_two, W_three, and W_four
+X_hat
+the W_'s
+Y_ equals A_
+W_ one
+probability of A_
+B_
+the probability of E_
+"H_"
+a hidden variable
+X_one, X_two, X_three, and X_four
+this H_ node
+H_
+the value of H_
+the H_ parameter
+the H_
+alpha
+situation-alpha
+the weighting factor
+situation- beta
+some  other  weighting factor
+a binary mask
+the weighting systems
+a weighting s- system
+X_two and X_three
+X_-
+the net
+endpoint sub-E_
+the entity relations
+function properties
+the java base format

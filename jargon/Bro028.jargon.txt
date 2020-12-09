@@ -1,0 +1,51 @@
+Aurora
+V_A_D
+the tandem network
+the MIPs
+ROM
+tandem network
+V_A_D network
+a L_P_C
+whispered  speech
+a two-source system
+a one-source system
+harmonic tunneling
+L_V_C_S_R system
+a bigram grammar
+tuning parameters
+word insertion penalties
+log probabilities
+reduced test set
+scaling  factor
+Gaussian mixture model
+the Hub-five evals
+H_T_K
+a Gaussian mixture system
+mix-down
+Guenter
+the Eurospeech
+equalization
+a generalization of spectral subtraction
+F_F_T bins
+Wiener filtering
+spectral subtraction
+schmutz
+a  single-layer   neural  network
+a compressive nonlinearity
+P_L_P
+Gabor functions
+a genetic algorithm
+mel cepstrum
+quasi-log scaling
+RASTA
+the L_D_A RASTA
+eigenvectors
+discriminant analysis
+Stepwise Linear Discriminant Analysis
+upward  moving
+the neural nets
+category classifiers
+the intermediate categories
+hidden variables, latent variables
+the E_M algorithm
+intermediate categories

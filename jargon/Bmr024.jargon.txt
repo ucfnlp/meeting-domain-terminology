@@ -1,0 +1,57 @@
+SmartKom
+The SmartKom data
+S_R_I recognition
+the SmartKom
+U_W folks
+the U_W folks
+S_N_D-play
+DARPA  demo
+the S_R_I recognizer
+NIST
+Synthesis system
+U_W
+Abbott
+L_D_C
+the L_D_C distributions
+DAT
+D_RAM
+chmod
+recursive chmod and chown
+minus R_ star
+N_W -
+N_W archive
+N_W archived
+the sysadmins
+Gaussians
+P_L_P features
+S_R_I
+M_F_C_C
+Hub-five
+CallHome and Switchboard
+S_R_I front-end
+Hub-five systems
+the vocal tract length normalization
+vocal tract length normalization
+V_T_L
+the P_L_P features
+the S_R_I
+S_R_I system
+Baum-Welch training
+Viterbi training
+Baum-Welch
+cross-validation set
+P_L_P
+the mel scale
+the S_R_I front-end
+straight P_L_P
+the Feacalc program
+the  S_R_I  front-end
+auto-regressive model
+mel cepstrum
+cepstral coefficients
+the Baum-Welch
+P_T_M model
+the V_T_L
+Absinthe
+Quicknet
+Netfinity server

@@ -1,0 +1,76 @@
+voice-unvoice
+M_L_P
+the mel cepstrum
+the Mel Cepstrum
+the  Aurora
+the Aurora system
+V_A_D
+the M_L_P
+R_
+R_zero
+R_one
+voiced-unvoiced
+R_one over R_zero
+F_F_T
+voiced-unvoiced-silence
+the voiced-unvoiced- silence
+log F_F_T
+log power
+filter bank
+the filter bank
+the voiced phones
+the unvoiced phones
+TIMIT
+T_I-digits
+Aurora
+the France Telecom
+Eurospeech
+H_L_T
+A_S_R_U
+H_M_M
+TIMIT's
+M_F_C_C's
+nearest-neighbor
+nearest neighbor
+sigmoidal function
+sigmoid
+softmax
+a sigmoidal
+earth shattering
+sonorants
+coronal
+the M_F_C_C's
+P_L_P
+mel cepstrum
+the S_R_I
+the P_L_P
+S_R_ I
+the cepstral
+the cepstrum
+mel  cepstrum
+RASTA code
+the F_F_T
+the F_F_ T
+F_F_ T
+the mel scale
+the Feacalc code
+the RASTA
+RASTA
+mel cepstral
+cepstral  truncation
+the mel cepstral
+pruning  thresholds
+the  identical   pruning  thresholds
+the pruning threshold
+pruning thresholds
+the P_L_ P
+mean subtraction method
+N_
+mean subtraction
+H_D_K
+the Aurora
+P_Z_M
+P_D_A
+the P_Z_M
+the S_R_I system
+S_R_I system

@@ -1,0 +1,50 @@
+the M_S_G features
+goes through M_ eh - another M_L_P
+the linear output of these two M_L_P's are combined
+the values and then there is this K_L_T
+there's the O_G_I features
+go through a contextualized K_L_T
+we have these features from O_G_I
+is a K_L_T using
+is uh M_L_P
+Uh, M_L_P
+No, the K_L_T
+the K_L_T
+Two H_T_K
+I was on the phone with Sunil
+forty percent for T_I-digit
+all the SpeechDat-Cars
+we don't have the T_I-digits part yet
+what you observe with T_I-digits is that the result
+so O_G_I two is just the top
+actually O_G_I two is
+the baseline with the O_G_I features
+you have some results with low-pass filter cepstrum
+we don't have this K_L_T on the first
+the M_M case
+are we running this uh for T_I-digits
+the T_I-digits are there also
+the reduced uh K_L_T size
+except for the H_M
+the result that the output of the H_T_K
+second from the bottom it says S_I_L
+the output silence of the M_L_P
+the silence of the M_L_P we have the fifty-six form
+The silence plus the K_L_T output
+this silence in addition to the um K_L_T outputs
+we don't keep all the dimensions after the K_L_T
+what's O_G_I forty-five
+it's O_G_I two
+It's in fact O_G_I two
+basically this but without the K_L_T
+set a, set b, set c, multi-condition, clean
+they splitting up between the T_I-digits and everything else
+the everything else is the SpeechDat-Car
+for the T_I-digits and these tables
+For the T_I-digits they want to train
+For the clean T_I-digits
+there'll just be new H_T_K runs
+just a single K_L_T because we did not really test that
+removing all these K_L_T's
+putting one single K_L_T at the end
+ten uh uh multiprocessor uh I_B_M machines R_S six thousands

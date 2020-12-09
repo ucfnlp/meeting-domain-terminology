@@ -1,0 +1,88 @@
+a MOKU-Treffen
+SmartKom
+E_M_L
+discourse and ontological
+Bayes-net
+the ontology
+posterior probabilities of all of our  decision  nodes
+all  the priors
+the posterior probabilities
+the  decision  node
+epochs
+the  SmartKom  system
+the E_Bayes
+the generation X_M_L
+the SmartKom stuff
+dialogue systems
+N_T_L-ish
+an A_C_L type paper
+wizarding
+an int- E_D_U internal workshop
+the cognitive neural part
+a cognitive neuro
+cognitive neural
+construction-based
+N_L_P cognitive neural
+the N_T_L-ish sort of, like, um, approach
+the Bayes-net
+the discourse side
+the uh, decision nodes
+another sub-Bayes-net
+a Bayes-net
+SUDO-square
+The  SUDO-square
+"Discourse"
+"Ontology"
+belief-net decision nodes
+E_D_U
+ontology
+Ontology
+the EVA
+the EVA vector
+a set of  lexemes
+the discourse history
+a thesaurus lexicon
+discourse history
+belief A_ versus B_
+your Bayes-net
+Enter node
+cognitive linguistic-y way
+a dialogue act
+recognition
+module
+our Bayes-nets
+the sub- sub-D_
+the  ontology  side
+ontologies
+the "where is X_" construction
+the Bayes-net thing
+the  Bayes-net
+for every construction we have a node in the net
+a loc-X_ node
+a  path-X_  node
+an  Entity  node
+a user proximity node
+our Info-on
+the  Go-there
+a  Where-X_  question
+Where-X_  node
+posterior probability
+Info-on  up
+Info-on is  True-up
+Go-there is True-up
+True-up
+a speech-act
+the node "location-X_"
+EDU
+the prosody
+feature slots
+a w- W_H focus
+Go-there
+nodes for the discourse and ontology
+our Bayes-net
+JavaBayes
+a belief-net
+garden path phenomenon
+bottom-up linguistics
+the wizarding
+your Solaris box

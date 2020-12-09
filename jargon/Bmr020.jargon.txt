@@ -1,0 +1,90 @@
+noise floor
+the  ICSI  front-end
+RASTA
+flat spectrum
+SmartKom message
+the Robustness meetings
+A_A_R_P things
+a "spurt"
+spurts
+Switchboard and CallHome
+Switchboard and  CallHome
+pragmatics
+the  Robustness  meeting
+Robustness meeting
+the  Robustness
+backchannels
+the  backchannels
+Switchboard
+the H_L_T paper
+the conjecture from the H_L_T results
+the added recognition error
+the recognition results
+the time bin
+the NIST scoring tools
+the t- forced alignment
+the recognition error
+the close-talking mikes
+the S_R_I recognizer
+V_T_L
+vocal tract length normalization
+re-align the recognizer
+the old recognition output
+the non-close miked case
+T_closures
+the  spurt  tag
+End  of spurt
+discourse markers
+disfluencies
+filled pauses
+the interruption points of a disfluency
+a filled pause
+a discourse marker
+a backchannel
+the interruption points
+backchannel
+filled
+spurt  ends
+inside pauses
+prosodic, uh, properties
+the  backchannel
+automatic backchanneling system
+S_R_I
+M_T_G_C
+C_R
+R_D_ - R_D_R
+"A_S_R zero point one"
+the  downsampled  version
+downsampled
+the  non-downsampled  versions
+the time bins
+discourse  boundaries
+the bins
+a forced  alignment  segmentation
+a time bin
+fine-tune our forced alignment
+the channelized version
+the backchannel
+the e- E_D_U meetings
+E_D_U- one
+a staggered  mixed  file
+a stagal-  staggered  mixed channel
+the E_D_U meetings
+the backchannels
+the E_D_U- one  meeting
+adjustments of the bins
+the speech-nonspeech detection
+E_D_U
+the normalization coefficients
+that J_sound-stat
+the E_D_U meeting
+a real s- spurt
+the P_Z_M mike
+the staggered mixed channel
+the speech-nonspeech detector
+close-miked
+one of the close-miked  channels
+close mike
+the channelized interface
+a close-miked speaker
+the close-talking channels

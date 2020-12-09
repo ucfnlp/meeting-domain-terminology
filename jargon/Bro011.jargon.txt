@@ -1,0 +1,52 @@
+there is L_D_A  filtering
+L_D_A filters
+these L_D_A filters
+standard RASTA filter
+on-line normalization
+this L_D_A
+his uh TRAPS
+Ericsson
+sim code
+this echo cancelling
+a cheating experiment
+echo cancellation-like
+the sonorant
+it was uh sonorance
+measures of S_N_R at - at sub-bands
+a belief-net
+lower levels of the belief-net
+sonorance within this critical band
+this MOCHA database
+multi-stream or multi-band
+multi-band  channels
+learned with E_M
+a sound is sonorant
+is it sonorant in  this  band
+Is it sonorant in  that  band
+Is it sonorant in that band
+So
+what's sonorant and what's not
+using TIMIT right
+this embedded Viterbi
+recognizer for the Aurora task
+H_T_K system
+the I_C_S_I-O_G_I
+full H_T_K
+the H_T_K back-end
+an H_M_M system
+in H_T_K there's an initial null and a final null
+train all those Gaussians
+prototype H_M_Ms
+an H_M_M
+S_P, digit
+S_P
+the S_P's optional
+the S_ P  model
+Gaussians per state
+number of Gaussians
+for Aurora
+the spectral subtraction
+he went to Octave
+Octave is the um UNIX clone
+Octave
+What is Octave

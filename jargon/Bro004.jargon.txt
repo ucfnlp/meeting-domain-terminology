@@ -1,0 +1,85 @@
+from O_G_I and we'll go - go through them also
+The P_L_P, the P_L_P with J_RASTA, the M_S_G, and the M_F_C_C from the baseline Aurora
+the T_I-digits English
+If you train on T_I-digits
+for at English at O_ point eight
+T_I-digits as  test
+you're testing on, say TIMIT and so forth
+So that's TIMIT basically right
+So it's band-limited TIMIT
+So you have band-limited TIMIT
+as good as a result as using T_I- digits
+on a T_I-digits  test
+This was for the P_L_P
+For the P_L_P with J_RASTA
+there is a difference actually with - b- between P_L_P and J_RASTA
+all  testing  for  T_I -digits
+The upper part is for T_I-digits
+it's the H_T_K results
+H_T_K training testings
+You mean the H_T_K Aurora baseline
+P_L_P
+and "multi-English" refers to what
+I missed that. What's M_F, M_S and M_E
+Multi-French, Multi-Spanish, and Multi-English
+It's the same uh Aurora noises
+Aurora-two
+your best one was under M_F_C_C
+the straight features to H_T_K
+the left of the P_L_P twelve
+features straight to H_T_K
+she used C_zero instead of log energy
+a baseline that's similar to the O_G_I baseline
+to have several outputs on and use articulatory features
+we should probably turn shortly to this O_G_ I  note
+the L_D_ A  RASTA sort of thing
+are there any H_T_ K
+I'm trying the H_T_K with eh
+M_S_G and - and P_L_P
+I will start work on multi-band
+O_G_I
+Which are P_L_P, or something
+transformed by uh, uh, K_- K_L or something
+one single K_L to transform everything
+No transform the P_L_P
+I think Hynek will be here Monday
+voice  activity  detection
+I haven't talked to Sunil - I asked Hynek
+the L_D_A filter
+Yes, um the L_D_A filter
+L_D_A filter
+where does the L_D_A come from
+they had taken L_D_A
+I wasn't actually looking at the L_D_A
+Oh what does - what does A_S_P
+It says "baseline A_S_P"
+what is the  difference  between A_S_P and uh baseline
+A_S_P
+it says baseline A_S_P is twenty-three mill
+it's the C_zero - using C_zero instead of log energy
+they say in here that the V_A_D is  not  used as an additional feature
+I don't understand is how they're doing this with H_T_ K
+the L_D_A introduces delays
+the difference between  T_L_D_A  and  S_L_D_A
+Temporal and spectral
+Temporal  L_D_A
+The  temporal  L_D_A does in fact include the same
+when Hynek shows up
+voice activity detection
+the  silence  model in H_T_K will always pick it up
+the H_T_K runs that are slowing us down
+stuck by the H_T_K trainings
+But if the H_T_K
+the H_T_K stuff running under Linux
+H_T_K we use for
+this Aurora stuff
+for Aurora
+For H_T_K
+Yeah. For the Aurora
+Do we have H_T_K source
+they have for  awhile,  in H_T_ K
+this  Aurora  stuff
+training slash testing
+this one collaboration with C_M_U and we used SPHINX
+collaborating with S_R_I
+Gaussian-mixture-based H_M_M thing we use is gonna depend

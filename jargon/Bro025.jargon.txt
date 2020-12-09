@@ -1,0 +1,130 @@
+spectral subtraction
+Wiener filtering
+square the transfer function
+over-estimation of the noise
+the S_N_R
+smoothing along time
+smoothing along frequency
+F_F_T bins
+with a Wiener filter
+noise addition
+mel bands
+a spectral subtraction instead of Wiener filter
+a noise addition after, uh, cleaning up the mel bins
+T_I-digits
+on the multi-condition in T_I-digits
+noise suppression
+the vector Taylor series
+the subspace stuff
+spectral subtraction versus Wiener filtering
+an exponent difference in the index
+the ideal filtering
+power spectra
+the square of the power spectra
+noise power that you're trying to reduce
+over-subtraction
+the mel bands
+the F_F_T
+spectral subtraction or Wiener filtering
+spectral subtraction  or  Wiener filtering
+neural net
+any explicit noise
+handling - stationary - dealing
+we didn't  explicitly  have anything to deal with stationary noise
+the output from either the Wiener filtering or the spectral subtraction
+the neural net
+the output of the spectrally subtracted
+a neural net
+a speech enhancement technique
+new F_F_T's
+the neural net transformed features
+the  untransformed  features
+linearly transform with the K_L_T
+to orthogonalize them
+the feature vector
+your discriminant features
+the neural net issue
+the V_A_D issue
+the V_A_D
+the SpeechDat-Car
+V_A_D
+their V_A_D
+our current V_A_D
+SpeechDat-Car
+V_A_D probabilities computed on the clean signal and apply them on the far-field
+test utterances
+a good V_A_D
+our  V_A_D
+the rank ordering
+the smoothing - the m- the - the filtering of the probabilities
+a median filtering
+the, uh, L_D_A and the Wiener filtering
+The L_D_A
+the delay of the L_D_A
+the delay of the V_A_D
+the L_D_A doesn't have any delay
+reduce the delay of the V_A_D
+the L_D_A
+the L_D_A and the V_A_D
+the L_D_A delays
+penalty for making it causal
+Wiener filter
+smooth it and then delay the decision
+latency time available for - to have a neural net
+computing the delta and then doing the frame-dropping
+do the frame-dropping and then compute the delta
+the frame-dropping
+compute the silence probability
+convert it to that binary flag
+upsample it
+match the final features number
+the well-matched condition
+reduced a little bit on the high mismatch
+in the final weightage
+the well-matched is still weighted more
+this frame-dropping problem
+the frame-dropping problem
+frame-dropping
+the frame-dropping on the server side
+the terminal side
+drop the frames after the neural net
+no frame-dropping till the final features
+the deltas are computed
+the ones that are marked silence
+the noise estimation
+their power spectra
+noise estimation
+used the channel zero VAD for the noise estimation
+the channel zero
+a channel zero VAD
+the s- power spectrum
+the noise spectrum
+the stationary part
+updating the noise spectrum only during stationary segments
+a very good V_A_D
+averaging the stationary and the non-stationary
+update only the stationary components
+Cure
+a neural network
+P_L_P features
+the cepstra
+P_L_P features computed on noisy speech
+RASTA
+the spectral subtraction or the Wiener filtering
+a V_A_D
+the V_A_D net
+the noisy features
+the cleaned-up features
+the feature net
+L_D_A
+final  frame-dropping
+the V_A
+noise  estimation
+the on-line normalization
+a set of, uh, phonological features
+these phonological features
+Sangita's work on - on TRAPS
+the TRAPS
+the temporal patterns of, um, certain - certain phonemes
+stop consonants clustered really well
+vocalic was clustered

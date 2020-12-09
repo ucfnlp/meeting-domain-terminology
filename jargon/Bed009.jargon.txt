@@ -1,0 +1,110 @@
+the recognizer
+to parser
+a syllable concatenating
+the syntactic parse
+the syntactic tree
+the syntactic structure
+the er parser interface  Jargon> working
+SmartKom plans
+the SmartKom recognizer
+their linguistic verbal behavior
+M_-three-L_
+the Deep Mail project
+extra-linguistic parameters
+a belief-net
+the M_-three-L_ structures
+the M_-three-L_ structure
+subfield
+the G_I_S
+a module within SmartKom
+the modeler knowledge module
+the attention-recognition
+attention-recognition
+SmartKom
+discourse modeler
+the generation module
+belief-net
+this A_V_E thing
+knowledge modeling module
+the belief-net
+state-transition network
+transition networks
+X_schemas
+G_I_S
+SmartKom terminology
+a function modeler
+a functioning model
+dialogue act
+dialogue  act
+the functional module
+Set-based
+Deep Map
+the M_-three-L_ specification
+the la- natural language input
+the language input pipeline
+the function model
+dialogue
+belief-nets
+the deep map system
+the function modeling concept
+route planner A_
+route planner B_
+knowledge modeler
+a  dialogue   state
+kernel modules
+kernel functionality
+the DAML
+a G_I_S
+the function modeler
+planner-A_, planner-B_, planner-C_
+language input
+deep understanding analysis
+syntactic analysis
+a surface  pattern  matcher
+features like segmentation
+an H_P_S_G parser
+finite state transducers
+D_F_K_I
+a  chunk  parser
+syntax  modules
+the chunk parser
+a learning-based approach
+a finite-state machine
+FORWISS
+chunk parsing
+some kind of  chunk  parsing
+S_R_I
+Fastus
+finite-state transducers
+Purely
+all the  morphology
+Morfix
+stemmers
+the  stemming  information
+stem forms
+Morphix
+all the stemming information
+list processing
+set processing
+semantic  construction  grammar
+conceptual  grammar
+the  knowledge  modeler
+the  function  module
+decision  networks
+a  very   deep  semantics
+cognitive   linguistics
+primitive  conceptual  schemas
+the  conceptual  semantics level
+" image  schemas"
+trajector
+another conceptual  primitive
+this deep  conceptual  basis
+deep  semantics
+deep semantic grammar
+this deep semantic
+deep semantic construction
+the  ontology
+the  user  model
+the  belief-net
+the ontology
+the  construction  grammar

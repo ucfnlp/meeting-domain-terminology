@@ -1,0 +1,85 @@
+the P_D_A mikes
+that quantization error
+For the P_D_As
+people are using Feacalc
+the RASTA-P_L_P program
+both P_L_P and RASTA-P_L_P
+Feacalc
+the STRUT implementation
+the P_D_ A  mike
+the P_Z_M mikes
+some  spectral   slices
+the spectrum or cepstrum
+Spectral slices
+a spectrum or a cepstrum
+M_F_C_C  feature  vectors
+spectrum or cepstrum
+the P_D_A
+the P_D_A's
+the L_D_A filters
+the on-line normalization
+the first H_M_M
+the H_T_K script
+the medium mismatch
+the mismatched case
+medium mismatch and high mismatch cases
+I compiled H_T_K
+H_M_K's
+the well-match
+well-matched
+the new on-line normalization
+the well-matched
+H_M
+the well-matched case
+the O_G_ I
+spectral subtraction
+apparently from Ericsson
+O_G_I
+the Aurora
+the experiments on  Aurora
+Oh, a special dispensation
+C_V_S
+contains L_D_A on-line normalization
+the C_zero parameters
+C_zero
+on-line normalization
+some filtering with the L_D_A
+a system based on Gaussians
+H_M and M_M
+normalization before V_A_D
+the O_G_I
+Spectral subtraction
+the C_zero of the speech and C_zero of the noise portion
+on-line normalization, for the moment, on spectral subtraction
+M_S_G
+TRAP or generalized TRAP
+the V_A_D - V_A_Ds
+just mel cepstra
+the different V_A_Ds
+the French V_A_D
+V_A_D
+the small V_A_D
+the good V_A_D of - from OGI
+the Alcatel V_A_D
+the V_A_D
+spectral envelope
+the F_F_T
+in combination with RASTA. It was kind of like RASTA
+K_L_T's
+pre-nonlinearity
+the K_L_T
+a tandem system
+Spectral subtraction and on-line normalization
+do a spectral subtraction
+do some spectral subtraction first
+do some on-line normalization
+do some more spectral subtraction
+use TIMIT
+for Aurora
+the noisy version that TIMIT
+the noises found in the T_I-digits
+portion of Aurora
+voiced-unvoiced stuff
+the SpeechCorders
+the H_T_K recognizer
+the Aurora training data

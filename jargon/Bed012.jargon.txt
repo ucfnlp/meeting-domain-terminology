@@ -1,0 +1,98 @@
+the Bayes-net
+Java Bayes
+Bayes-net spec
+input into the Bayes-net
+the Bayes n- or Java Bayes
+X_S_L
+the Java Bayes for- format
+the User Vector
+Go-there decision node
+its posterior probability
+all the decision nodes
+all the posterior probabilities
+the, eh, Struct
+the going-there node
+information out of the Struct
+that Java Bayes
+the posterior probabilities
+the values of  all  decision nodes
+posterior probabilities
+that Struct in the output
+that Struct in the - the output
+a "Struct"
+Struct
+a C_Struct
+Xerxes
+one smaller subnet
+Info-on or Location
+Go-there
+these three nodes in the net
+Bayes-net
+the Where-Is construction
+belief-net
+another belief-net
+the Where-Is question
+the Where-Is
+the Where - How-do-I-get-to or the Tell-me-something-about
+the Where-Is node answer
+these  discourse  things
+he Bayes-net
+the nodes in the Bayes-net
+"the Crown"
+The Crown
+"The Crown"
+a Situation vector and a User vector
+our Bayes-net
+three  decision nodes
+the question Where-Is
+Go-there and  not-Go-there
+Info-on
+Our belief-net
+our  belief-net
+the Go-there, the Info-on, and the Location
+the Go-there node
+all these smaller Bayes-nets
+a finite set of constructions
+A decision node for every possible question
+a n- Where-Is node
+Function-Off
+the discourse, the ontology
+the user model
+a Bayes-net
+a node for Go-there
+a node for Enter, View, Approach
+the  Go-there  posterior possibility
+another Bayes-net
+a construction parser
+Where-Is"
+the Endpoint-Approach
+O_ point
+the decision between Go-there, Info-on, and Location
+a decision tree
+the Bayes-net for  Where-Is
+a Where-Is question
+the posterior probability of the, uh, E_V_A node
+the posterior probability of a specific node
+the posterior probability of one subset of the nodes
+decision nodes
+all  the posterior possibilities for  all  the values for  all  nodes
+Income
+that Hugin software
+what Java Bayes terms are
+in Java Bayes
+a working belief-net
+this Bayes-net
+reasoning  machines
+the belief-net
+fake construction
+parser
+the  Go-there
+Go-there- discourse
+the Go-there
+the values of the Go-there- discourse
+the  Keith  node
+the construction parser
+the  ditransitive  construction
+combinations of the dit-
+Discourse-level
+Rhetorical constructions

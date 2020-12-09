@@ -1,0 +1,56 @@
+the P_L_P
+the M_F_C_C
+vocal tract length normalization
+the S_R_I system
+speech-nonspeech
+ICSI
+DARPA
+word  features
+forced  alignment
+Word features like, um, word frequency
+backchannel
+time position normalized
+disfluency boundaries
+the prosodic features
+the E_D_U meetings
+a  Robustness  meeting
+the Robustness meetings
+Switchboard
+the  Switchboard
+C_M_U
+Gaussians per cluster
+Gaussians
+mixture weights
+the P_L_P features
+vocal tract normalization
+vocal tract le- normalization
+the P_L_fea- P_ features
+V_T_ L
+Hub-five
+the V_T_ L
+the V_T_L
+from bark scale to mel scale
+big D_C offsets
+big D_C  offset
+P_L_P
+D_C  offsets
+P_L_ P
+Fletcher-Munson style
+H_P_F
+the RASTA filter
+the modulation spectral domain
+V_T_L
+M_F_C_C or P_L_P
+the K_L_T
+H_T_K
+S_R_I system
+the P_L_ P
+the K_L_ T
+P_L_P features
+S_R_ I  system
+Viterbi alignment
+the Viterbi assumption
+S_R_I
+Gaussian mixture system
+a K_L_T transform
+K_L_T

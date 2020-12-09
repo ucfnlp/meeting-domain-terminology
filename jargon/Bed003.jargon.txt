@@ -1,0 +1,60 @@
+the JavaBayes
+JavaBayes
+the  Tango  mode
+to "Vista" it
+"saliency", or the "salience" of an object
+salient
+belief-nets
+to do Vista
+the belief-net
+the probability of a Vista, Tango, or Enter
+nodes for "discourse" and "parse"
+Enter the place
+to Tango or Vista
+lexical or topic-based um, concept cues
+Prosody
+discrete
+prosody is not all of prosody
+it's a conjunction
+Other syntactic information
+Entering, Vista-ing or Tango-ing
+"Tango"ing
+"Tango"
+turn it off of "Tango"
+the Tango
+the bias toward "Tango"ing
+something that's simply just a vista point
+Bayes-nets
+in DOS
+a new D_O_S
+a bunch of STRUCTs
+a Bayes-net spec
+The JavaBayes guy
+discourse phenomena
+entrance requirements
+plan recognition kinds of things in the discourse
+discourse acts
+set of discourse related cues
+syntactic information, the verbs used, the object types used, modifiers
+little Bayes-nets
+other discourse processing
+built into SmartKom
+the discourse history
+an- anaphora resolution
+anaphora
+each dialogue step, by the discourse model -
+the anaphora resolution
+the discourse model
+more traditional A_I kinds of plan recognition things
+what knowledge representation
+these plan schemas
+cue-type-based
+more cue-based
+the more plan-based deep space
+other Bayes-net packages
+the SmartKom tables
+SmartKom
+a D_H_C_P request
+the evolving Bayes-net
+This - this Tango, Enter, Vista
+Tango-ing

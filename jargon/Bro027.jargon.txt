@@ -1,0 +1,121 @@
+reverberation
+pure reverberation
+signal-to-noise ratio
+D_B
+Aurora
+the Mel scale
+O_G_I
+the Aurora H_T_K system baseline system
+the S_R_I system
+Aurora H_T_K
+the edge
+rejection
+the F_F_T
+Triangular weighting
+SpeechDat-Car
+the SpeechDat-Car
+The SpeechDat-Car
+high-pass filter it
+the  far  field
+the far field
+artificial reverberation
+H_T_K
+insertion penalties
+SUSI
+dynamic Bayes-nets
+V_A_D
+the V_A_D neural network
+M_F_C_C
+P_L_Ps
+L_D_A filter
+plus the first derivatives
+the silence probabilities
+the V_A_D
+the delta computation
+delta computation
+the neural network
+the L_D_A filters
+an L_D_A filter
+the L_D_A
+The V_A_D
+L_D_A filtered features
+the delta
+on-line normalization
+the L_V_A
+the V_A_D network
+the neural net
+an I_D_L V_A_D
+good V_A_D
+a V_A_D
+tandem neural network
+M_F_C_C features
+a neural network
+the tandem net
+the H_T_K
+the tandem M_L_P
+T_I-digits
+the H_M case
+K_L_T
+TIMIT
+the T_I-digits'
+a K_L_T for a network
+a global K_L_T
+the global K_L_T
+cepstrum
+the S_N_Rs
+the number of Gaussians
+the Macrophone data to the training of the neural net? The tandem net
+the TIMIT
+the T_I-digits
+S_N_Rs
+neural net
+the S_N_R
+S_N_R
+that S_N_R
+the SpeechDat-Car data
+zero D_B testing
+Macrophone data
+Meeting  Recorder digits
+the H_M
+the neural networks
+P_L_Ps or M_F_C_Cs
+L_D_A on-line normalization
+L_D_A
+the H_M_Ms
+this L_D_A
+The L_D_A
+an L_D_A
+the dimensionality
+the A_N_N
+a nonlinear discriminant analysis
+nonlinear L_D_A
+the non- tandem  ones
+P_C_A
+that L_D_A
+neural nets
+low-order P_C_A
+L_D_A or neural nets
+the non-tandem features
+the Hub- five  system
+the resurgence of neural nets
+recurrent nets
+I_I_R filters
+the Hub-five evaluations
+the K_L_T
+a parallel V_A_D
+neural network
+S_N_R and energy
+the  neural  net
+the Aurora
+the V_A_D  flag
+tandem  neural net
+an independent estimator
+the net
+the tandem
+the final M_L_P
+a  tandem  net
+context dependent
+a network
+generalized diphones
+set of context dependent units
+Eurospeech

@@ -1,0 +1,11 @@
+P_D_A
+P_Z_M
+the P_Z_Ms
+the pre-segmentation
+fricatives
+pre-voicing
+a fricative
+"P_R_N"
+P_R_N
+It's linearized
+the segmenter

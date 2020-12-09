@@ -1,0 +1,32 @@
+O_G_I
+T_I
+T_I-digits
+P_make
+TIMIT
+A_S_R
+"M_O_-four"
+"M_O_-two"
+X_A_
+S_R_I recognizer
+X_Waves
+D_U
+X_A
+X_B
+X_C
+"V_O_C"
+QUAL
+arg-C_
+arg-V_
+arg-max, arg-min
+E_H
+A_H
+U_H
+D_C
+P_L_P
+A_N_N
+C_T_P_D
+X_M_L
+QUALs
+"QUAL T_C_L"
+"QUAL T_I_C_K_L_E"
+"grep minus V_ nums"

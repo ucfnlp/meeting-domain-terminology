@@ -1,0 +1,68 @@
+the N_S_F I_T_R
+transcription
+the transcriber
+the transcribers
+the right string
+the Aurora  test
+prosodics
+O_
+"O_"
+M_T_G
+R_C_D_R hyphen  joint
+the I_T_R program
+acoustically-oriented
+"M_R one"
+"M_R two"
+"M_R_M zero zero one"
+"M_R_M zero zero two"
+the N_S_A
+the Meeting Recorder
+M_R one
+M_R_M zero zero one
+speech-nonspeech segmentation
+the time bins
+channel
+a  backchannel
+the  transcriber
+a b- backchannel
+speech-nonspeech  segmentation
+backchannels
+the automatic s- detection system
+harmonicity
+harmonics
+frequency peaks
+the instantaneous frequency
+the harmonics
+the phase derivate
+F_F_T
+X_"
+peaks
+the frequency peaks
+frequency harmonic
+the frequency
+the harmonic
+the continuous filters
+this frequency
+that frequency
+the auto-correlation
+low-pass filter
+vocal tract
+the vocal tract
+the  harmonics
+the  vocal  tract
+the  glottis
+frequencies
+the harmonicity
+instantaneous frequency
+voiced-unvoiced determination
+the harmonic sequence
+the F_F_T
+frequency
+these frequencies
+a Hanning window
+front sieve
+cross-talk
+the P_D_A application
+speech-nonspeech detector
+channel-specific
+a P_D_A

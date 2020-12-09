@@ -1,0 +1,171 @@
+forced alignment
+alignments
+forced  alignment
+H_T_ K
+Aurora
+the S_R_ I
+H_M_M
+the S_R_I system
+the phone-loop adaptation
+variance adaptation
+the actual T_I-digits test set
+S_R_I
+T_I-digits
+the Aurora
+numbers on T_I-digits also with the tandem thing
+the S_R_I system is a lot better than the H_T_K
+training H_T_K system
+close-talking
+a  telephone  bandwidth front-end
+this S_R_I system
+speech bandwidth
+wider-band
+wide-band
+the T_I-digits
+V_T_L estimation
+the waveform names
+waveform names
+these waveforms
+connected digits
+T_I-digits is connected digits
+a Bellcore corpus
+isolated digits
+Bell Digits
+the Switchboard models
+supervised adaptation
+the far-field microphones
+channel adapted
+Channel adapted
+the far-field microphone
+acoustic mismatch
+adaptation, non-adaptation
+a close-talking mike
+Switchboard evaluations
+the far-field
+a far-field mike
+the near-field mike
+the far-field mike
+a forced alignment
+the  close-talking
+the H_L_ T  paper
+segments that are channel -  time-aligned
+"non-overlap"
+the P_Z_Ms
+the P_Z_M
+the P_Z_M channel
+that  P_Z_M
+the S_R_I
+H_T_K
+the S_R_I recognizer
+the P_file
+these waveform segments
+feature file segments
+the forced alignments
+backchannels
+the pruning
+The pruning
+tighter  pruning
+tighter pruning
+free recognition
+the lower pruning value
+accurate  alignments
+open up the pruning
+greedy alignment
+some hand-corrected alignments
+noise models
+a background speech model
+mixed signal
+some weird alignments
+a reject phone
+cloning that reject model
+capture the rejects in the  foreground,  like fragments and stuff
+a reject model
+not allowing rejects in between
+the aligner
+proximity  constraint
+the proximity constraint
+probabilistic weighting distance
+word-level alignments
+the  reject  is also mapping
+lined up all the alignments
+a transcriber who could use Waves
+Transcriber
+the Transcriber tool
+word start insights
+NIST scoring tool
+C_T_M
+Conversation Time-Marked file
+Transcriber, uh, outputs C_T_M
+our representation in Transcriber uses  time  marks
+M_R four
+re-run recognition
+M_R  one
+the mixed channel
+the  channelized
+the mixed signal
+these backchannels
+backchanneling
+a backchannel
+backchannel
+the dyadic
+the  dyad
+the  reject  words
+Switchboard
+CallHome
+the spurt format
+"spurts"
+"spurt"
+a  spurt
+the spurt
+spurt
+Spurt
+spurts of development
+we have spurts and we have spurt-ify dot shell and spurt-ify
+intonation  units
+spurts
+alignments from the individual channels
+these C_T_M files
+a Waves label file
+alignment process
+disfluency dashes
+spurt overlaps
+the time alignment
+merge all the alignments from the various channels
+the spurts
+these spurts
+their spurts
+one sp- spurt by spurt
+the far-field mikes
+far-field recognition
+how you  time-align  things that are overlapping
+the transcription graph
+overlap analysis
+Bever's effect
+psycho-linguistics
+a mixed signal
+the prosodic
+The Aurora - there's a special Aurora
+a special Aurora session
+the Aurora pe- people involved in Aurora
+the Aurora session
+the Aurora  task
+Aurora's
+Aurora  digits
+the Aurora task
+an Aurora system
+this H_T_ K  back-end
+H_T_K or Entropic
+the H_T_K
+the Aurora folks
+M_M_I_E training
+Gaussian training
+running recognition on it
+the alignments
+the mixed signals
+the channelized, uh, representation
+the result of overlapping
+the  groupings
+the groupings
+The grouping
+the  grouping  is supposed to be  synchronized
+different digits but same groupings

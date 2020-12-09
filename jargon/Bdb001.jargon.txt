@@ -1,0 +1,100 @@
+the A_F
+A_F
+discourse coders
+all the stuff we get out of the forced alignments and the recognizer
+"T_
+"I_D equals T_ one, uh, one seven"
+an utterance tag
+T_seventeen
+T_eighteen"
+T_eighteen
+a prosody -
+"Prosody"
+U_seventeen
+encoding of things with time
+a forced alignment
+a new recognition output
+a phone-level alignment
+phone-level
+phone-level backtraces
+barring  memory  limitations
+parsing  limitations
+word-level
+a pitch value
+one pitch value
+pitch values
+P_file
+any frame-level stuff
+frame-level representation of features
+pause  phones
+P_files
+right
+utterance numbers
+the Sphere format
+H_T_ K
+Entropic
+S_D
+S_F
+prosodics
+those prosodic  files
+Switchboard conversations
+utterance boundary segment
+ATLAS, the NIST thing
+ATLAS
+nodes and links
+NIST
+"type" would be "utterance"
+annotated transcription graph
+the  Transcriber  format
+span time boundaries of any type
+backtraces at the phone-level
+at the  prosody-level
+cepstral
+feature files
+these P_files
+link seventy-four
+L_seventy-four
+the channelized output
+the  channelized
+the segment boundaries
+I_D is "S_whatever"
+type is "utterance"
+equals "utt"
+prosodic  phrases
+a prosodic phrase
+a prosodic boundary
+a begin-end  rise  representation
+the features from your acoustics
+Transfer
+the transfer format
+the back store
+the D_- D_D_T - D_T_D
+a word-level prosodic
+at the word-level
+segment-level
+the  phone-level
+the  frame-level
+P_file utilities
+the F_zero -
+"man P_file"
+"apropos P_file"
+P_make
+the  channelized  input
+the channels in the tag
+the overlap a- annotations
+an overlap code
+the time bins
+an overlap segment
+the overlap  coding
+a time bin
+a backchannel
+a usurping of the turn
+time alignments
+at S_R_I
+all the Switchboard
+reducing everything to - uh, to - uh, uh, to  textual  alignment
+the acoustic segment
+the prosody of
+referring expressions
+the referring expressions
+their time-marks

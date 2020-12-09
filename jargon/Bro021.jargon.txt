@@ -1,0 +1,56 @@
+Eurospeech paper
+on-line normalization
+C_zero
+C_one
+F_F_T
+M_F_C_C's
+normalize C_zero
+the on-line normalization
+mel band
+M_F_C_C
+the cepstral coefficients
+the Aurora database
+SpeechDat-Car
+the M_F_C_C
+the mel
+the L_D_A filters
+T_I-digits
+the L_D_A filter
+L_D_A filter
+Aurora
+France Telecom
+cepstral coefficients
+L_N_A
+phonemes
+TIMIT
+phoneme
+inter-phoneme
+SmartKom language model
+the SmartKom system
+the phase normalization
+a Taylor series
+the spectrum
+the average complex spectrum
+Taylor series expansion
+K_
+the Wiener f- f- fil- filtering
+the Wiener filtering
+Wiener filtering
+the Wiener filter
+Wiener filters
+eigenvectors
+V_T_S
+V_A_D
+L_D_A
+Vectorial Taylor Series
+the V_A_D
+the V_T_S
+noise spectra
+power  spectrum
+the power spectrum
+power spectrum
+E_
+the T_
+P_X
+P_
+the mel filter bank

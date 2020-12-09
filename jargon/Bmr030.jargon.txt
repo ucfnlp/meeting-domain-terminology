@@ -1,0 +1,53 @@
+the N_S_F A_T_R -  I_T_R
+the I_T_Rs
+S_R_I
+the meeting maps
+meeting maps
+the DARPA demo
+the prosody demo
+Transcribers
+the Tcl-T_K overhead
+Communicator stuff
+Prosody
+prosody stuff
+word alignments
+utterances in the bottom
+converted these feature files into wave files
+the wave file
+multi-wave
+feature file
+the F_zero contour
+the pitch contours
+the stylized F_naught features
+an F_naught track
+a median filter
+a median filtering
+At S_R_I dot com
+"at S_R_I"
+speech verification
+feature files
+the prosody
+our F_zero candidates
+transcription status stuff
+these beep files
+the  beep  files
+beep format
+"Trans-_I_P I_B_M"
+either I_O load or processor load
+the beep files
+The beep files
+a m- C_G_I script
+a U_ doctor speech data
+new D_D disks
+U_W
+the SUN-Blade-one-hundreds
+a P_make
+the P_make pool
+the  P_make  pool
+a "reginfo minus show attribute"
+P_make
+"reginfo
+"Reginfo"
+minus show-A_T_T_R"
+S_B-one-hundred
+"no-evict"

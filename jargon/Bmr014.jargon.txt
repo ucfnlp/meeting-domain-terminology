@@ -1,0 +1,25 @@
+the whole Jimbox thing
+U_W
+S_R_I
+NIST and U_W
+P_files
+run recognition on them
+channelized
+the type token frequency listings
+colloquial spoken forms
+"VOC"
+"NONVOC"
+"GLOSS"
+a
+P_Z_M
+channelized is to then um, get it into this multichannel format
+the boundaries of the time bins
+speech-nonspeech segmentation
+get the data clean, and channelized
+"neural nets"
+"downsampled"
+the H_M_M system
+this H_M_M base
+the sub-utterance level
+Any sub-word level thing
+P_G_P

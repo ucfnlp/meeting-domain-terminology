@@ -1,0 +1,54 @@
+I_P_eighty traffic monitoring and characterization
+ad-hoc network
+an ad-hoc network is made of wireless nodes
+this kind of ad-hoc networks
+to have an ad-hoc network
+for  one  node within the ad-hoc network
+these ad-hoc networks
+use some kind of ad-hoc networking, ad-hoc routing
+the main thing about an ad-hoc network
+possible application of ad-hoc networks
+some kind of carry detect scheme, like for example, C_S_M_A
+the so-called R_T_S C_T_S uh dialogue
+a reservation packet called R_T_S, "Request To Send"
+receives  successfully the C_T_S packet
+will  hear  your C_T_S
+what happened when I sent an R_T_S packet
+is anybody allowed  also  to send R_T_S packets
+send  also  some R_T_S packet
+you're always exchanging R_T_S
+packets for the R_T_S
+R_T_S packets and C_T_S packets
+he also had to send R_T_S
+with the C_T_S
+this one is the R_T_S and this one is the C_T_S
+this node hears the C_T_S transmission
+transmit an R_T_S  packet  in advance
+C_T_S packet
+uh C_T_S or one uh R_T_S  packet
+some people working for B_B_N
+that's applied for R_T_S C_T_S
+it took place R_T_S  C_T_S
+start with  another  R_T_S C_T_S
+I would like to say is that  besides  the R_T_S  C_T_S  behavior
+the same way as this R_T_S and C_T_S packet
+the process of a new R_T_S and a new C_T_S
+the R_T_S and C_T_S packets
+there is a group at the I_T_F
+on these ad-hoc networks
+the wrong route with the R_C_M_P redirects
+some ad-hoc routing algorithm
+Eleven-B_ is only for - for uh  radio
+D_S_S
+orthogonal frequency division multiplexing
+some old uh waveLANs are also
+In the R_S_M band
+let's say, waveLAN
+you have now your U_C_B buss
+the ad-hoc mode
+the  traditional  things discussed in the I_T_F
+M_P_L_S
+we were on the U_C_B
+the G_P_R_S picture is still uh available
+the S_G_S_N and U_M_T_S, they are called three-G_S_G_S_N
+the uh G_G_S_N, you have two-I_P layer functionality

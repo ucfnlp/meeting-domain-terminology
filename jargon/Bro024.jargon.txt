@@ -1,0 +1,117 @@
+the S_R_I system
+this short Hub-five training set
+the mean subtraction method
+downsampling
+mean subtraction
+the SmartKom system
+H_T_K
+long-term window F_F_Ts
+the A_S_R_U paper
+a  short-time  F_F_T -  short-time  cepstrum calculation
+spectra work
+the H_T_K set-up
+reverberation conditions
+zero-pad
+the T_I-digits
+SmartKom
+L_D_A filtering
+L_D_A filters
+a linear time invariant filter
+the L_D_A
+Aurora
+RASTA filter
+cepstral mean subtraction
+concatenate utterances
+the cepstral mean subtraction
+a dialogue system
+mean cepstra
+the reverberation characteristic
+multi-band
+the sub-bands
+multi-band classifiers
+SpeechDat-Car
+the T_I-digit
+the T_I-digits?"
+noise composition scheme
+test-A_
+the "Station"
+the SpeechDat-Car
+the French Telecom
+the baseline mel cepstrum
+T_I  digits
+T_I-digits
+the A_ condition
+H_M_ numbers
+French Telecom
+V_A_D
+the spectral subtraction
+multi-condition training mode
+multi-condition training
+the H_M_Ms
+spectral subtraction
+Wiener  filtering
+Wiener filter
+spectral subtraction algorithm
+the France Telecom proposal
+the log
+C_z- C_zero and log energy
+log energy
+the log energy
+mel  filters
+F_F_Ts
+a spectral  subtraction
+M_ domain
+the mel filter
+filter bank energy
+the mel filter banks
+L_D_A
+The French Telecom
+France Telecom
+the H_T_K delta
+C_R_C
+the current V_A_D
+P_L_P parameters
+a median filtering
+the V_A_D
+the fricative
+alignment errors
+The V_A_D
+the median filtering
+V_A_D a M_L_P
+the M_L_P's
+Italian T_I-digits
+a phonetic classification system
+the Italian Aurora data
+the Aurora data
+close-talking microphone
+V_A_D performance
+proposal-one system
+Wiener filtering
+the SpeechDat-Car data
+low-pass filter
+the T_I-digits number
+the France Telecom
+the T_I-digits data
+speech energy
+the signal-to-noise ratios
+the average speech energy
+mean speech energy
+a mean energy
+the factor of the Wiener
+the subtraction algorithm
+the S_N_R
+signal-to-noise ratio
+silence probability
+the VAD
+the current VAD
+The VAD
+the French Telecom system
+the V_T_S experiments
+the
+Wiener  filter
+L_D_A filter
+the L_D_A filter
+the H_T_K
+the two L_D_A filter
+noisy L_D_A
+the clean L_D_A

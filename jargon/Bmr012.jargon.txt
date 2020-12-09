@@ -1,0 +1,100 @@
+no cross-word models, no trigrams - a bigram recognizer
+Switchboard
+synch time
+the actual synch time file
+this synch time problem
+an acoustic glitch
+the S_S_H key gen
+the channels get a little asynchronous
+time bins
+the synch numbers
+the synch time - the synch numbers
+non-monotonic synch times
+the prebug
+the language model for Switchboard
+the inflection on the verb
+P_Z_M
+no language model for P_Z_M
+no language for P_Z_M
+No language model
+Jimlet
+Switchboard-two data
+the Switchboard-one trained - mostly trained recognizer
+Switchboard-two
+Switchboard-one
+the language model
+bigram from Switchboard
+the acoustic models
+this acoustic data
+Switchboard telephone bandwidth models
+the only acoustic training data
+a guy at S_R_I
+full band models for s- conversational speech
+full band models
+telephone band speech
+their language models
+the S_R_I system
+once we have enough meetings. So this is only twenty minutes of one meeting with no - no
+add P_Z_M
+the far field mike
+Tcl
+T_C_L
+the force alignments
+prosodic information
+the aligned times
+the forced alignment
+forced alignment
+force align them
+a closer word level transcription
+the close talking mikes
+the P_Z_Ms
+the P_Z_M
+the wave forms
+S_R_I
+S_R_I recognizer
+the data that you take into S_R_I
+the speech group directories
+the downsampling
+issues with downsampling
+syncat
+sound resample
+S_N_D
+Resample
+resample
+R_S_M_P
+the original wave forms
+downsample
+the S_R_I recognizer
+the S_R_I front-end
+downsampled them
+downsample here
+the sixteen K_ individual
+mel cepstrum or P_L_P
+Mel cepstrum
+this P_L_P uses uh auto-regressive filtering and uh modeling
+mel cepstrum
+automatic downsampling
+downsampled
+are we downsampling to sixteen
+a digital audio orientation
+the P_Z_M stuff
+to downsample
+a meeting on even deeper understanding, E_D_U
+our front-end meeting
+Dot E_D_U
+time synchronous way
+get another A_D_D
+a crown C_M three eleven A_E
+head-mounted crown mikes
+what NIST is doing
+presegmentation
+the modifications to the - the multitrans interface
+more refined encoding of the beginnings and ends of the overlapping segments
+the presegmentation Thilo's been doing
+with respect to NIST
+NIST
+this establishment of a global encoding standard
+D_S_P
+echo cancellation
+echo cancellation stuff
+the spectroanalysis over the overlaps

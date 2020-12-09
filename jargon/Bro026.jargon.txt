@@ -1,0 +1,85 @@
+the re-synthesis of speech after suppression
+the C_V_S mechanism
+O_G_I
+Aurora
+Eurospeech
+the C_V_S
+S_S_H
+a C_V_S server
+C_V_S
+Wiener filtering
+F_F_T bins
+mel scaling
+the Wiener filter
+mel bands
+spectral subtraction
+wiener filtering
+reverberation
+the reverberation
+prelims
+Pre-prelim hell
+convolutional effects
+this Aurora task
+L_D_A
+the on-line normalization
+the F_F_T level
+the mel filter bank
+the  frequency  domain
+the mel and then the log
+the L_D_A filter
+L_D_A filter
+the downsampling
+downsample
+on-line normalization
+on-line norm
+upsampling
+the neural network
+a neural net
+frame dropping
+a neural network
+neural network
+V_A_Ds
+a significantly better V_A_D
+a mel spectrum
+cepstra and spectra
+spectra and mel cepstra
+the L_D_A
+the L_D_A RASTA
+The L_D_A RASTA
+modulation frequencies
+mel spectrum
+the mel conversion
+normalizing spectra instead of cepstra
+TRAPS
+the V_A_D
+Pratibha
+I_B_M
+neural-net-based  TRAPS
+Mini-TRAPS
+the neural net
+V_A_D
+the VAD
+a new feature net
+the feature net
+the H_M_Ms
+T_I-digits
+S_V_M recognizer
+H_M_M
+the S_V_M
+a H_M_M, Gaussian mixture model
+Gaussian mixture H_M_M
+the S_V_M thing was an H_M_M also
+the I_S_I_P
+phonemes
+a TRAP
+the phonemes
+agglomerative hierarchical clustering
+a clustering algorithm
+fricatives
+vocalic
+schwa sounds
+phoneme
+schwas and stops
+P_C_A
+reinforcement learning
+diagnostic rhyme test

@@ -1,0 +1,115 @@
+SUN-Blade-one-hundreds
+P_make and Customs
+P_make
+the L_ S
+do L_S
+L_S
+The S_R_I recognizer
+a Perl script
+Make file
+the dash capital J_
+a P_make script
+an H_T_K
+H_T_K
+T_T_Y
+Aurora
+L_D_A
+the L_D_A filters
+the cepstral coefficients
+the L_D_A filter
+the L_D_A filter's
+narrow band L_D_A filter
+an L_D_A
+on-line normalization
+the Aurora baseline
+the on-line normalization
+the spectral subtraction
+the SpeechDat-Car
+spectral subtraction
+Wiener filtering
+signal subspace
+the noise subspace
+French Telecom system
+the France Telecom
+France Telecom
+back-end blind equalization
+cepstra
+Wiener filter
+cepstral features
+the cepstral
+proposal-one system
+the new L_D_A filters
+L_D_A filters
+T_I-digits
+H_M
+M_M
+S_N_R
+the T_I-digits
+mel energies
+the F_F_T
+the F_F_T bins
+F_F_T bins
+F_F_T
+a signal subspace
+the Wiener filtering
+The signal subspace
+a K_L transform
+a Wiener filter
+the K_L
+the signal subspace
+the S_N_R
+the multi-band
+cepstral
+J_RASTA
+V_T_S
+Vector Taylor Series
+noisy cepstra
+the cepstral domain
+C_M_U
+the C_M_U
+subspace
+T_I
+H_T_K scripts
+spectral  subtraction
+Switchboard
+the Switchboard
+the S_R_I recognizer
+the C_P_U
+the cepstrum coefficient
+the R_zero
+R_one over R_zero
+the mel filter bank
+voice-unvoice-silence
+the cepstrum
+phonetic units
+the filter bank
+power spectrum
+the  filter  bank
+K_L_T
+the H_M_Ms
+V_A_D
+speech-silence
+the H_M_M
+P_L_P derived
+R_coloring
+frication
+multi-band
+H_M_M back-end
+the voiced-unvoiced
+a multi-band
+voiced-unvoiced
+TRAPS
+O_G_I
+P_L_P L_P_C
+L_P_C polynomial
+P_L_P L_P_C spectra
+root L_P_C
+the L_P_C polynomial
+P_L_P
+L_P_C
+the L_P_C polynomial's
+L_P_C approach
+I_I_R filter
+the psycho-acoustic modeling
+the P_L_P model
+psycho-acoustic

@@ -1,0 +1,169 @@
+the revised sort of updated  semantic  specification
+a revised  construction  formalism
+the textual example at the end has clausal construction
+the key word construction
+a block that is constituents
+one  type of constituent, that is a  constructional  constituent
+constructional
+a p- uh spatial relation phrase
+a  directional  specifier
+a  nominal  expression
+it's nominal of some kind
+animate
+nominal
+constructional and meaning types
+the little  F_  subscript
+The F_ subscripts
+the formal pole  of  that
+an interval relation
+a value binding
+semantic constraints here are just - are just bindings
+"semantic bindings"
+semantic constraints up top and meaning bindings down - down here
+"semantic constraints"
+the semantic head
+some form property of the  head
+a head-final language
+the  formal  head
+form-meaning pairs
+their  construction  meaning
+construction type and meaning type
+A construction type
+a form category constraint
+form constraints
+a nominal expression
+higher form types
+"nominal expression"
+the X_bar theory of - of phrase structure
+an argument structure construction
+frame-based construction
+NOM expressions
+mental spaces
+the mental space thing
+construal
+Construal
+a mental  space
+space builders
+X_schema
+the mental space stuff
+these so-called space builders
+the auxiliaries
+mental spaces, and blending
+"what the space configuration is at the time of utterance"
+Purely linguistic cues
+the purely form cues
+FrameNet
+the  semantic  value is filled in by sim- simulation
+Have it construed
+constructions that have sort of constituent structure
+constituents
+dependency grammars
+constituent-based grammar
+the constituent
+the phonology component
+an intonation contour
+a different foc- focus constituent
+"topic-comment"
+Topic-comment
+a landmark trajector
+topic-indicating constructions
+Topic marker
+the discourse situation context
+"referent" and "discourse segment"
+specific X_schema frames
+a referent
+a pointer to ontology
+"discourse segment"
+utterance-specific kinds of things
+discourse status
+"discourse status"
+mental space
+a particular referent
+construal engine
+discourse context
+image schematic
+X_schemas
+image schematic contributions versus, like, X_schematic contributions
+the X_schema
+aspectual type
+an X_schema
+the  X_schema
+a passive construction
+how polarity interacts
+some s- resulting s- semspec
+bindings to ontology items
+a semantic specification
+the semantic side of  constructions
+the semantic side of constructions
+semantic structures
+causal structure for composite events
+image schematic kind of slots
+a hierarchical frame
+Mental space
+the semantic part of constructions
+the discourse segment stuff
+the information structure
+the information structure stuff
+trajector-landmark
+discourse level constructions
+topic-focus constructions
+the I_M_S
+contextually dependent
+the - the s- s- referent
+referent
+each referent
+some ontology thing
+ontology
+a mental space
+a space builder
+mental  spaces
+a discourse context
+mental space phenomena
+a quotative construction
+a logophoric pronoun
+A_S_L
+logophoric
+pronoun references
+this mental space stuff
+pronoun reference
+a Bayes space
+basic mental space
+hedging
+linguistic hedges
+Hedges
+a hedge
+the hedges paper
+mental
+model theory
+multiple inheritance
+semantic schemas
+a inheritance structure
+JavaBayes
+the embedded JavaBayes format
+the posterior probability
+the  construal  bit
+a Bayes-net
+Bayes
+Bayes-net
+do construal
+consult your ontology
+any C_P_ T's
+the context dependent stuff
+the ontology relevant stuff
+the user model
+your C_P_T's
+how thing X_ is construed as an utterance
+the embedded JavaBayes
+how things can be - can be construed
+an ontology of the domain
+the context dependent
+P_R_Ms
+P_R_M-
+unfold a P_R_M into a straightforward Bayes-net
+the P_R_M
+relational models
+the Hobbs abduction story
+theorem prover
+a theorem prover
+the P_R_Ms
+E_M_L

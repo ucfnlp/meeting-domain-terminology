@@ -1,0 +1,109 @@
+TORRENT chip
+phonetic features
+multi-band techniques
+phoneme recognition
+phoneme
+TIMIT
+tandem-style
+mean subtraction
+the T_I-digits
+P_Z_M F_
+H_T_K
+channel adaptation
+the H_T_K
+a high-pass filtering
+an all-positive power spectrum
+a power spectrum
+non-causal windows
+V_A_D
+R_T_sixty
+the P_Z_M
+the Aurora baseline system
+the P_Z_M signals
+the Aurora
+T_I-digits
+P_Z_M signal
+the P_Z_M data
+Macrophone
+the Macrophone
+V_T_L-
+vocal tract length normalization
+Aurora
+Aurora  system
+I_I_R filters
+L_D_A filters
+D_C offset compensation
+a D_C component
+The D_C component
+a D_C offset
+the A_to_D
+the DARPA
+D_C offset
+the  phase  spectra
+the  arithmetic  of phases
+the F_F_T spectrum
+the Aurora system
+the H_T_K system
+the  Switchboard  data
+conversation-side normalization
+the C_zero components
+triphone models
+triphones
+triphone
+the Aurora baseline
+G_-seven-one-two filter
+original T_I-digits
+U_ doctor-speech data T_I-digits
+Aurora baseline
+T_R digits
+M_F_C_C
+The baseline Aurora-two system
+the noisy T_I-digits
+T_I-digit
+the regular Aurora test
+Aurora T_I-digits
+the full Aurora
+the S_R_I system
+the S_N_R
+that V_A_D
+a V_A_D
+energy-based V_A_D
+M_L_P V_A_D
+fricatives
+stop consonants
+low-energy speech components
+nonspeech
+the M_L_P
+the M_L_P-based one
+the spectral information
+the energy-based system
+decides to keep them
+spectral subtraction
+the Makhoul-type spectral subtraction
+an over-estimation factor
+over-estimation factors
+the S_N_R estimate
+S_N_R
+Wiener filtering
+Wiener filter
+the VAD
+SpeechDat-Car
+the Wiener filter
+L_D_A filtering
+on-line normalization
+VAD
+Carlos filters
+O_G_I
+power spectra
+band-pass filter
+the subspace
+V_T_S
+the V_T_S
+C_zero
+the cepstral domain
+cepstral domain
+mel
+bank domain
+cepstra
+the V_A_D
+the on-line normalization

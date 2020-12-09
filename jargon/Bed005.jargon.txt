@@ -1,0 +1,133 @@
+our  social  infrastructures for possible subjects
+allowable German orders
+allowable English orders
+order-based
+the M_-three-L_
+"Action watch"
+audio-visual media
+A_V medium
+set-based
+the r- score
+the  mapping  of - of, uh, words to the M_-three-L_
+some new M_-three-L_ - s-"
+the "Goodbye" stuff
+M_-three-L_ dot D_T_D
+" Discourse  Status Confirm"
+an "Action Goodbye-End-Action"
+a "Feature Discourse-Status Confirm Discourse-Status"
+the Discourse-Status
+this M_-three-L_
+the Discourse Maintainer
+Discourse Status
+M_-three-L_ for the routes
+the structure of Map requests
+route elements
+" from  objects" and " to  objects"
+E_M_L
+a "route element"
+a " from  object"
+a " to  object"
+Action Schema Enter-Vista-Approach
+the g- G_I_S
+the Planner
+the  Approach  mode
+outside of m- almost  managerial  point
+the  short  ra- range optimization
+Approach and Vis- or Vista
+Source-Path-Goal type stuff
+Source-Path-Goal
+anaphora
+referring  expressions
+an ontology
+construction grammar
+the  declarative  forms
+the interrogative forms
+their discourse patterns
+What is the simspec mean
+execution  engines
+a  Deep  Map  research  issue
+quote parser
+the Bayes-net
+"Noisy-OR" front
+the  Wu  paper
+a couple  new  Wu papers
+our Bayes-nets
+EVA
+E_V_A
+Enter, V- View, Approach
+Enter
+View
+Approach
+Noisy-ORs
+C_one, C_two, C_three, and C_four, and E_, for Cause and Effect
+a - quote-unquote  distinguished  state
+the Disting- the Distinguish state
+the Distinguish state
+E_one, E_two, E_three and E_four
+the Heckerman paper
+each of these E_I -
+G_ of E_one comma E_two
+E_three, E_four
+G_
+the G_ function
+the full C_P_T
+JavaBayes
+the C_P_T
+Ba- JavaBayes
+evidence combination
+"G_ function"
+Evidence-Combining
+the total evidence for "V_", "E_", and "A_"
+N_duplets of, uh, E_Vs
+probablistic evidence combination
+a discar- Discourse Initial Phrase
+the Bayes-nets
+three N_
+A Noisy-OR
+"neural-net-acize" these Bayes-nets
+"Noisy-OR"
+the Noisy-OR
+a Noisy-OR
+a Noisy-arg-max or a Noisy-whatever
+the neural net
+more neural-net-like
+the Noisy-OR function
+the "OR"
+subnets
+a means of -
+a flat file
+the ontology
+Approach  Mode or  E_V_A  Mode
+the E_V_A vector for - for various kinds of landmarks
+its E_V_A vector
+a p-  tag
+hash on object name to, you know, uh, the probabilities
+the ontology -
+their own  taxonomy
+one top level ontology ft- that covers all the E_M_L projects
+the  ontology
+a  case-based,  not an  instance-based  ontology
+ontologies
+SmartKom
+a SmartKom
+SmartKom's
+institutional  meanings
+Institutions
+our instance gadget
+our E_V_As
+the E_V_As for the  type
+E_V_A  tree
+its E_V_A vector, pppt-pppt
+the  combination  functions
+Java Bayes
+the classes in JavaBayes
+G_  functions?"
+Bayes-nets
+your Bayes-nets
+smaller Bayes-nets
+some combining functions
+combining f- functions
+a C_P_ T
+the logical f- G_ function
+a C_P_T."
+the Max- the Evidence-Combining function

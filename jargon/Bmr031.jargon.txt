@@ -1,0 +1,64 @@
+the channelized segmentations
+Macrophone
+digit training
+the C_M_U folks
+the C_M_U
+U_W
+recordings for SmartKom
+the U_W guys
+It's not lossy
+You get aliasing
+one backchannel at a time
+give it to L_D_C
+What's L_D_C
+Linguistic Data Consortium
+Shorten does that automatically
+that's why Shorten
+that's why Shorten reduces the size
+do it lossless
+the near-field signals
+far-field
+Guenter's Wall Street Journal data
+handful of microdrives
+the areal density of the microdrive
+So, what's SmartKom
+is E_D_U still recording
+have trouble with your backchannel
+With  my  backchannel
+with  your  backchannels
+the backchannels
+the speech-nonspeech detection
+most recently rewriting Transcriber in Java
+Transcriber now written in Java
+the Transcriber interface
+the Transcriber's nice
+attributes of S_G_M_L tags
+wavefiles
+the waveform
+the fancy user-interface stuff that's in Transcriber
+original Transcriber
+Yep, SAX
+Reading SAX
+I want to submit to A_S_R_U
+this ISCA paper
+this  prosody  workshop
+Based on Hub-five
+Based on their Hub-five recognizer
+it'd be nice to have U_W do some work
+we'll do the, uh,  prosodic  side
+an A_S_R_U paper
+in sort of Hub-five
+the Aurora, uh, team
+some C_M_U folks at, uh, H_L_T
+an upcoming I_CASSP paper
+something akin to parallel model combination
+In the Aurora thing
+Wiener filtering and spectral subtraction
+and Andreas on the - this paper on prosody
+clustered class N_gram or something
+similar project at S_R_I where we're using
+you have this A_S- A_S_R_U deadline
+We have to do the English synthesis for SmartKom
+the first cepstral coefficient
+You mean just a - a Z_square
+cepstral is like log d- linearly transformed

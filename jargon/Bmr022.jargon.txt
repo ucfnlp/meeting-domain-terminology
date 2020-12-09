@@ -1,0 +1,52 @@
+the Channeltrans format
+Channeltrans
+the mixed signal
+the alignment
+run a forced  alignment
+the  mixed  signal
+the wavefile
+a beep model
+the original  wavefile  with all the beeps
+M_one-hundred
+tone  space
+tone space
+"H_beep" or "L_beep", "high beep" or "low beep"
+two L_beeps in a row
+the tonal differences between the two
+try  doing that as a post-process
+this alignment
+a  general  speech model
+a  beep  model
+the  forced  alignment
+a  reject  model
+map that to reject
+the  reject  model
+The forced alignment
+the beep models
+The beep model
+the beep
+alignment problem
+the aligner
+constraints
+function words
+a forced alignment
+high and low beeps
+the E_D_U fe- folks
+The Crown
+a Jimbox or a Jimlet
+I_RAM boards
+the  I_RAM  board
+this I_RAM board
+C_V_S
+Some pass- S_S_H tunneled
+the C_V_S documentation
+substitute  C_V_S for your R_S_ H  command
+S_hosts
+S_U_X
+"meeting-root"
+R_C_S
+the granularity of locking is at the file level
+run alignments
+the synch time boundaries
+the  synch  times
+synch times

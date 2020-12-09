@@ -1,0 +1,41 @@
+Aurora
+French Telecom Alcatel
+French Telecom
+Alcatel French Telecom
+a mel  cepstrum
+SpeechDat-Car
+the M_F_C_C
+M_F_C_C
+O_G_I
+Fourier spectrum
+Fourier transform
+L_P_C model
+the L_P_C model
+F_F_T
+a all-pole model
+TRAP recognition
+The TRAPS
+L_P_C
+mel cepstrum
+phoneme
+the phoneme
+the critical band
+critical bands
+the neighboring bands
+neighboring critical bands
+a critical band
+the Aurora
+TRAPS
+evaluations of speaker recognition, the technology, and he was involved there
+C_zero
+C_one
+H_T_K
+cepstral coefficients
+the C_one
+B_B_N
+H_T_K's
+ARPA
+P_D_P
+the O_G_I
+Aurora-two
+M_L_P

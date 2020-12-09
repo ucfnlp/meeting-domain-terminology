@@ -1,0 +1,67 @@
+D_F_K_I
+the German SmartKom project
+the SmartKom system
+a German synthesis module
+The uh synthesis
+the so-called  concept  to speech
+"synthesis"
+"concept to speech"
+this synthesis module
+the whole syntactic structure
+the tree adjoining grammar
+the syntasti- syntactic structures
+these syntactic structures
+the generation module
+the syntax trees
+the V_P goes to N_
+N_, V_
+the synthesis module
+the gestural recognition
+which syntactic structure
+tree adjoining grammars
+each lexical item
+the lexical entry
+constructional
+that's H_P_S_G
+constructions
+SmartKom
+construction parser
+general  constructions
+the  ontology
+the SmartKom stuff
+the tree adjoining  grammars
+syntactic trees
+H_P_S_ G-like  stuff
+this belief-net stuff
+this belief-net
+legitimate  belief-net  computations
+a  running  belief-net
+a belief-net
+belief-net
+the proposed belief-net
+JavaBayes
+Hugin
+the JavaBayes code
+the fictive motion stuff
+the Deep  Map  project
+KLEIST
+Bielefeld
+syntactic factors
+That syntactic facto- factors
+intrinsic versus extrinsic reference frames
+reference  frames
+"reference frames"
+spatial reference frames
+E_D_U -
+proximal-distal
+cognitive map
+deixis
+ontology
+an ontology A_P_I
+ontologies
+a  particular  ontology
+the uh SmartKom project
+construction  analyzer
+the construction analyzer
+the belief-net stuff
+the belief-net

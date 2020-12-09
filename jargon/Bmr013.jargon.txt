@@ -1,0 +1,70 @@
+New version of the presegmentation
+New version of presegmentation
+the A_S_I refs
+the T_I-digits
+the size of T_I-digits
+One particular test set of T_I-digits
+the standard training set for T_I-digits
+X_Waves
+this Aurora, uh data set
+some artificial signal-to-noise ratio
+the  prosodics
+the prosodics
+T_I-digits
+Aurora
+the prosody
+the cross-word modeling
+speech recognition
+the particular acoustic features to mark
+tense lax
+the points of articulation
+articulatory features
+points of articulation
+bilabial or dental
+palatal
+place of articulation
+the articulatory features
+the gestural features
+phonemic
+the spectrograms
+articulatory gestures
+the Switchboard
+Switchboard
+the same portion of Switchboard
+the spectrogram
+a multi-band system that is, uh, trained through a combination of gradient learning an- and E_M
+individual frequency channels
+parts of Switchboard
+the articulatory feature
+the full continuum of transcriptions
+the ac- acoustic features
+phone recognizers
+trained with I_P_A
+phonetic-level coding, or articulatory
+a forced alignment
+new version of, uh, presegmentation
+the presegmentation
+channel-specific, uh, speech-nonspeech detection
+speech-nonspeech in - in the specific channels
+run it through channelize
+the S_R_I recognizer
+S_R_I
+the presegmented
+forced alignment
+the result of a forced alignment
+the segmenter
+the timebands
+a particular timeband
+P_Z_M
+T_C_L
+Jane's post-processed channelized version
+twelve hours of force-aligned and recognized data
+post-process
+pre-process input
+speech-nonspeech detections
+force-alignment
+free recognition
+Crown
+Crown"
+the Crown P_Z_Ms
+The P_Z_Ms

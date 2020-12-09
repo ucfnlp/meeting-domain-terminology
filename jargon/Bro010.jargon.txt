@@ -1,0 +1,54 @@
+the L_D_A filters
+I_I_R filters
+on-line normalization
+the on-line normalization
+the neural net and P_C_A
+RASTA-like filtering
+spectral sub- subtraction
+K_L_T
+spectral subtraction from Ericsson and to - to change the contextual K_L_T for L_D_A
+The contextual K_L_T
+K_L_T - K_L_T
+K_L_T. Oh, K_L_T
+L_D_A discriminative
+the non-discriminant linear transformation
+the K_L_T
+the nonlinear discrimination
+the mel frequency bands
+V_A_D
+the V_A_D
+the mel fil- filter
+the noise spectrum
+the power spectra of the noise
+the S_N_R
+spectral subtraction
+Hans-Guenter  Hirsch
+two Gaussians
+two  Gaussians
+E_M
+E_M-like thing
+Alcatel
+France Telecom
+the speech modulation spectrum
+Aurora
+Ericsson
+sonorance
+an E_M algorithm
+S_N_R
+Gaussian mixtures
+sonorant and non-sonorant
+H_M_Ms
+voiced-unvoiced
+"obstruents"
+Gaussian mixtures and H_M_Ms
+detecting sonorants
+similar to sonorance
+P_E_R_M_I_T
+M_S_G and P_L_P
+M_S_G
+RASTA
+de-convolution by filtering
+RASTA's time window
+L_P_C
+the Avendano work
+the de-convolution filter

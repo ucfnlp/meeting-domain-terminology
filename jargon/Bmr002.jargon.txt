@@ -1,0 +1,58 @@
+connection element
+zero-based  or  one-based
+zero-based
+the P_D_As
+P_Z_Ms
+P_Z_M
+P_D_A
+downsampling
+CogSci
+the
+discourse analysis
+discourse analyzers
+the  S_T_  M  format
+transcriber
+time alignment
+Language Engineering branch
+automated alignment
+S_T_M
+WAVE files
+WAVE file
+"MATE  Mark-up  Framework"
+"X_M_ L "
+"K_C_M file formats"
+"T_E_I"
+Text Encoding Initiative
+X_M_L
+non-X_M_L
+ToBI tags
+intonational
+intonational tags
+"binary distribution
+S_G_I
+speech  corpora."
+segment, label and transcribe  speech  signals"
+the L_D_ C
+the L_D_C
+prosody
+time alignments
+a T_C_L
+a T_C_L T_K and C_ extensions
+T_C_L-based
+Transcriber
+the P_D_A
+Tcl?"
+deliverable D_three point one of the MATE
+intonation contours
+transcriber's
+P_Z_ Ms
+neural net
+a recognizer
+information retrieval
+SmartKom
+English acoustic models
+the MARSEC project
+prosodic
+"Transcriber"
+reel-to-reel tapes
+control-C_

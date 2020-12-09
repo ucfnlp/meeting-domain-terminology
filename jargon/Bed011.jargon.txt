@@ -1,0 +1,44 @@
+the decision nodes
+EVA
+our decision nodes
+decision node
+the belief-net
+the main inference engine for thi- the system
+the natural language understanding thing
+the actual belief relations
+belief-nets
+speech synthesis
+belief-net
+Go-there node
+the reason node
+the timing node
+these sub Go-there User Go-there Situation nodes
+the situation
+nodes
+the endpoint situation node
+the sub-S_ -
+the sub-U_
+the so-called "Keith node"
+construction parser
+the D_ and the ontology to the sub-O_ node
+the C_P_G's
+fifteen, twenty different construction types
+decision nodes
+cognate
+the "EVA"
+a belief-net that - that, um, has C_P_T's
+constructions we want to elicit
+eliciting particular constructions
+temporal order
+subordinate clauses
+semantic constructions
+the full ontology A_P_I
+the ontology
+as general as argument structure constructions
+Verb Phrase
+the clausal constructions
+the "Out of" construction in the B_C_P paper
+complete
+construction coverage
+an "Out of Film" construction
+N_A_A_C_L

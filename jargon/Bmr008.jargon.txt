@@ -1,0 +1,34 @@
+N_S_F pre-proposal
+D_T_ Ds
+D_T_D
+X_M_L
+the Data Type Definition -
+the Document Type Definition
+ICSI
+a Visitor r- ICSI Visitor or, ICSI
+TIMIT
+TIMIT"
+he least common denominator of specificity
+the TIMIT suggestion
+the TIMIT categories
+the TIMIT subcategorization
+fine-grained phonetic  analysis
+R_less dialects
+stratification
+he TIMIT categories
+a sub-categorization
+the D_T_D
+the D_T_Ds
+a grep
+Status of Transcription
+residual L_P_C energy
+harmonicity
+"S_P_K"
+harmonicity measure
+the Javier system
+the F_seek function
+F_seek function
+typecast to long
+size-T_
+F_seek
+The typecast

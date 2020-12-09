@@ -1,0 +1,131 @@
+spectral subtraction
+mean log m- magnitude spectral subtraction
+the SmartKom system
+SmartKom
+mean cepstral subtraction
+RASTA
+high-pass filter
+a band-pass filter
+an I_I_R filter
+temporal and spectral behaviors
+confusion network
+B_B_N
+an N_best list
+backtrace
+low energy
+Wiener filtering
+M_F_C_C system
+Wiener filter
+on-line normalization
+the L_D_A
+the Wiener filtering
+a Wiener filter
+an L_D_A
+L_D_A plus on-line normalization
+the Wiener filter
+the v- new V_A_D
+the  old  V_A_D
+the M_F_C_C baseline
+M_F_C_C baseline
+The M_F_C_C baseline
+the mel frequency
+the V_A_D
+the M_F_C_C
+the on-line normalization
+on-line normalization and L_D_A
+on-line or L_D_A
+this T_I-digits
+the Alcatel system
+single stage Wiener filter
+a V_A_D
+the VAD
+the new Wiener filter
+this Wiener filtering
+the SpeechDat-Car
+the French Telecom system
+the new Wiener filtering schema
+an inverse Fourier transform
+the  VAD
+the current VAD
+the channel zero VAD
+T_I-digits
+endpointed speech
+a real V_A_D
+the transfer function
+"S_F" is a clean speech spectrum, power spectrum
+the noisy power spectrum
+noisy power spectrum
+the clean power spectrum
+the S_F
+the noisy spectrum
+the N_F
+the current noisy spectrum
+regular spectral subtraction
+a mean square sense
+the power domain
+the vector Taylor series
+V_A_D
+SpeechDat-Car
+this channel zero VAD
+a proper VAD
+channel zero VAD
+the channel zero V_A_D
+a better VAD
+the T_I-digits
+the power spectrum
+the mel
+mel magnitude
+the mel filter
+the subspace
+the spectral subtraction
+the noise spectrum
+signal spectrum
+the S_N_R
+the F_F_T bins
+the mel bands
+speech-shaped
+overall energy
+the overall power spectrum of speech
+speech- shaped
+a  power  spectrum
+the  mel
+a full wave rectification
+the spectral domain
+the signal energy
+the speech spectrum
+low S_N_R values
+On-line normalization and L_D_A
+spectral subtraction, or Wiener filtering
+French Telecom
+Wiener  filtering
+cepstral normalization
+noise compensation technique
+H_F
+inverse Fourier transform
+the mel frequency bands
+the spectrogram
+spectral subtraction or Wiener filtering
+phonetic categories
+spectral subtraction plus smoothing
+the T_C_P
+the J_RASTA
+energy estimate
+an F_F_T
+the F_T_T bins
+the F_F_T
+the V_A_D-based
+the V_A_ D-based
+V_A_D-
+the France-Telecom-based spectra
+noise compensation scheme
+the spectral subtraction scheme
+spectral whitening
+Ericsson proposal
+the Ericsson proposal
+the SpeechDat-Car data
+the H_T_K system
+the Viterbi alignment
+the current V_A_D
+the V_A_D network
+the spectral slope
+Hans-Guenter

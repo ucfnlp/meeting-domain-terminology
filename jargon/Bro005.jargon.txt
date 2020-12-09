@@ -1,0 +1,154 @@
+with nets trained on P_L_P
+compare with network using without P_L_P
+anyway  Aurora-two-B_
+without delta and eighty-nine with the delta
+with a mel cepstra system going straight into the H_T_K
+English training on TIMIT is still better than the other languages
+we use the training on TIMIT
+except for the multi-English
+sentences from the French, from the Spanish, from the TIMIT, from SPINE
+the experiment training the net with, uh P_L_P, but with delta
+each feature stream has its own M_P_L
+K_L_T transformed M_L_P outputs
+the third one is to u- use a single K_L_T trans- transform
+features as well as M_L_P outputs
+I use different M_L_P
+obviously that the multi-English M_L_P is the better
+rest of experiment I use multi-English
+only multi-English
+for the Italian database
+we see that for T_I-digits M_S_G perform as well as the P_L_P
+the error rate is c- is almost uh twice the error rate of P_L_P
+probably in the M_S_G
+there is some D_C offset
+get improvement by combining P_L_P and M_S_G
+we have the result, basically, of P_L_P
+the training of the H_T_K
+training in Italian digits for P_L_P only
+we have also if use P_L_P and M_S_G together
+P_L_P
+it's a difference between P_L_P and mel cepstra
+P_L_P and Mel cepstra give the same
+Do you have this result with P_L_P alone
+feeding H_T_K
+Just P_L_P at the input of H_T_K
+so adding M_S_G
+that's the result basically that O_G_I has also with the M_F_C_C with on-line normalization
+it's the Aurora baseline, so M_F_C_C
+well, O_G_I, they use M_F_C_C
+the baseline M_F_C_C
+the M_S_G does nothing
+experiments with one is that adding M_S_G
+the M_S_G doesn't however particularly affect things
+you're assuming multi-English is  closer
+"M_E" in these other tests
+that's the multi-English
+it is not  all  of the multi-English
+the multi-English is how much
+some feature from the M_L_P and other feature
+the M_S_G-three
+the same but with the delta and delta-delta - P_L_P delta and delta-delta
+the baseline P_L_P with delta and delta-delta
+trained
+M_L_P outputs for the P_L_P net
+straight features with delta-delta
+Not trained with multi- English
+the first column is for M_L_P
+what has adding the M_L_P done to improve
+even the M_L_P alone
+What gives the M_L_P alone
+Multi-English P_L_P
+On T_I-digits? O_K. Yeah
+P_L_P delta and delta-delta
+uh feed two streams into H_T_K
+the  scripts  for H_T_K
+the M_L_P should not be considered as strongly
+the level of the H_T_K  recognition
+It's not even the H_T_K, uh
+I guess you have to do the H_T_K training also
+I mean the H_T_K models are diagonal  covariances
+discussion with Hynek, Sunil and Pratibha
+actually Hynek would like to see
+temporal L_D_A followed b- by a spectral L_D_A
+critical band
+the system look like a TRAP
+it would be a TRAP system
+this is a TRAP system
+kind of TRAP system
+the neural network are replaced by L_D_A
+I started multi-band M_L_P trainings
+we just train on TIMIT
+would be something between TRAPS and multi-band because
+to make a decision on which M_L_P
+the moment it's the TIMIT network
+We have seventy-nine M_L_Ps
+As we mentioned, TIMIT is the only
+the other are just Viterbi-aligned
+these seventy-nine M_L_P differ on different things
+The M_S_G problem
+the fact that the M_L_P trained on target task
+the M_- M_L_P is trained
+on the M_S_G uh problem
+I said with J_RASTA, even though I really like J_RASTA and I really like M_S_G
+well M_S_G is supposed to have a- an on-line normalization though
+There is, yeah, an A_G_C- kind of A_G_C
+besides the A_G_C
+the on-line normalization that we're using  came  from the M_S_G design
+With the O_L_N-two
+With "two", with "on-line-two"
+you have O_L_N-two
+"On-line-two" is good
+the M_L_P transforming it
+for T_I-digits the TIMIT net is the best
+What the Viterbi alignment's doing
+did you look at the Spanish alignments Carmen
+this is not really the Viterbi alignment
+some of the nets were trained with  SPINE
+Um, P_L_P work as well as M_F_C_C, I mean
+I mean the multi-English
+"Multi- multi-English" just means "TIMIT", right
+I think Kleinschmidt was using more than fifty
+the other is multi-band
+to plug in the system to the O_G_I
+where to put the M_L_P
+the straight features with the M_L_P features
+So if you just take P_L_P with uh, the double-deltas
+multi-English cause that works pretty well
+the M_L_P as an additional path
+they make L_D_A
+we have very good features the M_L_P doesn't help
+They're doing L_D_A RASTA, yeah
+just to get the V_A_D labels
+with V_A_D binary labels so that we can
+get our M_L_P features
+filter them with the V_A_D
+retraining the H_T_K
+the exact same results as them on H_T_K
+LogRASTA, I don't know
+with LogRASTA filtered features
+Would you be using on-line normalization
+Would you be using on-line normalization with LogRASTA-P_L_P
+train a single M_L_P with too much noise
+you think it's perhaps better to have several M_L_Ps
+A single M_L_P of course will work a little bit better
+I think the way that Hynek or - or Malik had - had told me
+a little bit better than LogRASTA-P_L_P with on-line normalization
+if you take away the on-line normalization, LogRASTA seems to do better than P_L_P
+it might not be necessary to use the LogRASTA-P_L_P
+I think it's true that the O_G_I folk found
+a  kind  of LogRASTA
+benefitted  from on-line normalization
+we're not really gonna worry about the M_L_ P
+if the M_L_P  ultimately,  after all is said and done, doesn't really help
+If the M_L_P  does,  we find,  help
+we might even have more than  one  M_L_P
+this plug into O_G_I
+Sunil
+we get these V_A_D labels and features
+H_M_M system with uh - with a neural net system
+N_best lists or lattices
+we can forget combining multiple features and M_L_G perhaps
+I really  liked  M_S_G
+there was a paper in I_C_S_L_P about um this
+it was two H_M_Ms with - with a - with a dependency arrow between the two H_M_Ms
+about the Linux machine "Swede."

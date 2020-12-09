@@ -1,0 +1,23 @@
+the ICSI O_G_I one
+get from O_G_I
+there was in the Aurora one
+French Telecom and Alcatel
+the French Telecom Alcatel System
+the Alcatel French Telecom System
+Wiener filtering
+modification of the cepstral parameters
+cepstral mean subtraction
+bandwidth in the modulation spectrum
+the V_A_D stuff
+on-line normalization
+the confusion matrices
+that Alcatel was getting
+the articulatory feature
+a low-pass filtering to cepstrum
+M_S_G
+an M_S_G-like thing, but it wasn't M_S_G, right
+working on multi-band things
+learning articulatory feature
+a combination of gradient learning
+E_M
+the Aurora data

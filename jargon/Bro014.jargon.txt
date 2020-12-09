@@ -1,0 +1,84 @@
+the H_T_K back-end
+the, uh, H_M_M re-estimation
+this program called H_E_rest
+in H_T_K, what's the difference
+the H_T_K stuff
+H_T_K's compiled for both
+your dot C_S_H_R_C
+a Sparc and points
+dot C_S_H_R_C
+running the Sparc
+Aurora participant
+from O_G_I
+the medium mismatch
+the medium-mismatch condition
+Medium mismatch
+M_F_C_C
+the V_A_D in the baseline improved
+V_A_D
+the V_A_D
+make a good V_A_D
+the M_F_C_C
+the M_F_C_C's
+some version of H_T_K
+the people didn't have a V_A_D
+just use M_F_C_C
+M_F_C_C's
+P_L_P or something
+the V_A_D issue
+V_A_Ds
+putting V_A_D on the baseline
+spectral subtraction, L_D_A filtering, and on-line normalization
+spectral subtraction
+on-line normalization
+O_G_I
+the Aurora
+a clean downsampling-upsampling
+the K_L_T
+a good V_A_D. We put the good V_A_D
+the good V_A_D
+good V_A_D
+M_S_G features
+K_L_T part
+the spectrum of excitation
+the spectrum of the excitation
+you're calling the excitation
+mel filter
+spectrum from the F_F_T spectrum
+the mel f- filter bank
+the F_F_T
+TIMIT
+it's noisy TIMIT
+It's noisy
+canonical mappings from TIMIT labelings
+the smooth spectrum
+the spectral envelope
+the excitation
+the voiced-unvoiced
+a V_A_D system
+a smooth spectral envelope
+for each filter bank
+the mel cepstrum
+the cepstrum
+spectrum or log spectrum
+some spectrum of the excitation signal
+the mel filter bank from the F_F_T
+the auto-correlation - the R_zero energy
+periodic or aperiodic source
+place along an F_F_T
+The spectral subtraction
+the level of F_F_T bins
+I guess Ericsson is on the, um, filter bank
+F_F_T. Filter bank
+the filter bank
+the F_F_T bins
+Eurospeech deadline
+the T_I-digits
+Bourlard-Hermansky-Morgan
+Avendano's method
+the D_F_T as a matrix
+the S_R_I system
+the modulation spectrum intact
+Drullman
+the M_S_G features
+M_S_G does

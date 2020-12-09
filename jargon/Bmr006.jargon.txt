@@ -1,0 +1,76 @@
+digit recordings
+signal-processing
+disfluencies
+prosody
+BeRP
+computational linguistics and probabilistic grammars
+language models
+idiolects
+Dan Jurafsky's model
+computational linguistics
+ICSI
+parallel information
+corpus powerful
+a wider sampling
+transcript screening phase
+the P_files
+regeneratable
+The SUN
+SPINE
+the SPINE
+X_A
+dynamic data
+the static data
+D_I
+automatic segmenter
+neural net algorithm
+hierarchical clustering process
+silence category
+a signal-noise situation
+the background acoustic
+a pitch extractor
+F_E_C
+Supervised clustering
+the linear discriminant analysis
+vectorial quantifier
+Unimodal
+clustering algorithm
+a neural net
+a decision tree
+cepstral coefficients
+the M_F_C_C's
+the P_L_P's
+C_one, C_two
+K_nearest-neighbors
+neural net
+L_P_C
+Ike criterion
+BIC criterion
+parameter M_F-
+M_F_C_C
+speech recognizer model
+BIC
+M_F_C_C's
+second-order cepstral coefficients
+the first-order
+first- and second-order cepstral coefficients
+the L_P_C residual
+L_P_C residual
+the low-order L_P_C
+the spectral distortion
+the P_D_A
+P_D_A speech file
+P_D_A files
+signal-to-noise ratio
+exploratory analysis
+P_D_A
+cross-correlation
+differentially varia- valuable
+the P_Z_M
+a P_D_A
+the anonymization
+discourse analysis
+discourse tracking?"
+discourse  analysis
+S_R_I
+prosodic

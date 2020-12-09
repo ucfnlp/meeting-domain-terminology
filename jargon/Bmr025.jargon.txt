@@ -1,0 +1,62 @@
+DARPA demos
+CrossPads
+E_D_U meetings
+the THISL tools
+the THISL I_R
+an S_G_M_L-like
+the  SoftSound  guys
+the Tcl-T_K THISL GUI front-end
+the Channeltrans interface
+term frequency, inverse document frequency scoring
+THISL
+The THISL GUI tool
+Tcl-T_K
+I_R
+compiling them on Solaris
+Cygnus  tools
+a B_S_D compatibility layer
+Autoconf
+Solaris
+free
+Free B_S_D
+SPRACHcore
+SoftSound  guy
+SoftSound
+THISL I_R
+Tcl interfaces
+the Transcriber stuff
+Snack
+Transcriber
+the Transcriber uses Snack
+THISL GUI  probably  uses Snack
+Multitrans
+free B_S_D
+a B_S_D system
+the Transcriber interface
+the speech-non- uh nonspeech
+the I_R stuff
+the prosody
+finding sentence boundaries or finding turn boundaries
+Waves
+prosodic
+the Key files
+the Key file
+the  Key  files
+Crown mike
+N_W archive
+the Snack version and the Transcriber version
+a Think-Pad note
+the  time  tags
+the CrossPads
+a CrossPad
+O_C_R
+synchronize the time in the  CrossPad
+synchronize at the beginning of each meeting all the pads that are being  used
+E_D_U
+the SpeechCorder sort of f- idea
+X_ interface
+the  CrossPad  idea
+The transfer function
+the first N_ channels are wireless
+the close-talking and the next N_ are far-field
+recognition  runs

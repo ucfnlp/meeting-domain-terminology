@@ -1,0 +1,24 @@
+I_RAM
+bigram
+I_RAM, bigram
+Bi- Bigram
+phonetic class
+H_M_M
+Munich system
+an H_M_M-ba- based system
+a L_D_A
+P_R_A_A_T
+NIST
+cross-correlation
+DragonDictate
+the S_R_I recognizer
+I_P_A
+inter-annotator agreement
+he representations of parameter
+pitch-related things and harmonicity-related things
+a couple Markov models
+speech segmenter
+the same Gaus- uh, H_M_ M  modeling
+BIC
+Thilo
+Gaussian

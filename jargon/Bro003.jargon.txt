@@ -1,0 +1,137 @@
+Uh - O_G_I
+downsampled to eight kilohertz
+the H_T_K baseline for this task
+the H_T_K base lines
+this is using mel cepstra
+the test data dimension
+maybe, the language I_D corpus
+the SpeechDat databases are not telephone speech
+They are downsampled to eight kilohertz
+the O_G_I multilingual database
+there's an O_G_I language I_D
+the CallFriend is a - is a, uh, L_D_C w- thing, right
+this is downsampled and - and filtered
+T_I-digits we have both
+there is also TIMIT. We could use TIMIT
+they want a replacement for mel cepstra
+we've got something much better than mel cepstra
+it's the O_G_I, uh, folks' perspective
+acoustic-environment mismatch
+H_T_K, the free version
+the same version that, uh, O_G_I is using
+I've been looking at, uh, uh, TIMIT stuff
+the stuff that we've been working on with TIMIT
+train up a net on TIMIT and test
+this net trained on TIMIT
+the inputs are P_L_P and delta and that sort of thing
+P_L_P, um, M_F_C_Cs, um, J_- J_RASTA, J_RASTA-L_D_A
+Which is P_L_P
+probably something like P_L_P
+so you take P_L_P
+you, uh, use H_T_K
+the training could either be from Digits itself or from TIMIT
+you were getting the labels for TIMIT
+the standard TIMIT transcriptions
+a nice long huge P_file to do training
+the fact that TIMIT
+you're using the hand-labeled stuff from TIMIT
+TIMIT was not entirely hand-marked
+the sixty-one phonemes in TIMIT
+I looks the SAMPA- SAMPA phone
+SAMPA phone
+to use the TIMIT phone set
+they also in TIMIT had like a glottal stop
+the training for H_T_K
+for A_N_N only
+the H_T_K models is always
+P_L_P
+P_L_P? O_K
+M_S_G
+Uh, J_RASTA
+J_RASTA
+And J_RASTA-L_D_A
+J_RASTA-L_D_A
+T_C_T
+What about mel cepstrum
+system that's m- that's mel cepstra
+just to do M_F_C_C
+Compare that with just M_- M_F_C_C
+in his previous Aurora experiments
+I think O_G_I folks have been doing that
+they used, uh, mel cepstra, actually
+Was that distributed with Aurora
+What about T_I-digits
+T_I-digits - uh all these Aurora
+is derived from T_I-digits
+different kinds of noises at different S_N_R levels
+the  Aurora  Spanish
+there's Spanish testing in the Aurora
+type-A_, type-B_, and type-C_
+the H_T_K system
+Test-A_ is like a matched noise. Test-B_ is a - is a slightly mismatched. And test-C_ is a, um, mismatched channel
+we have programs that compute P_L_P
+we have M_S_G, we have J_RA-
+the major advantage of M_S_G
+A major advantage of M_S_G
+the past is combined with P_L_P
+so P_L_P and M_S_G I think we definitely wanna try
+the K_L transformation
+the H_T_K models
+the H_T_K model
+How long does it take for an, uh, H_T_K training
+For H_T_K
+M_F_C_C
+the T_I-digits test data is about
+are we still using P_make
+something for the training of H_T_K
+On a SPERT board
+you did it on a SPERT board
+we do have a bunch of SPERT boards
+Is it faster to do it on the SPERT
+it's still a little faster on the SPERTs
+they found that the SPERT board's still - still faster
+we have quite a few SPERT boards
+something, to run on SPERT - different SPERT boards
+when we go to, uh, O_G_I next week
+front-end and with the H_T_K program
+the Spanish two neural network with P_L_P and with LogRASTA P_L_P
+what is better if - if LogRASTA or J_RASTA
+J_RASTA is more complicated
+instead of doing RASTA with a log
+you're doing RASTA with a log-like function
+that varies depending on a J_ parameter
+And so in J_RASTA you attempt to  do  that
+for example Albayzin database
+labeled
+they have one program, Feacalc, but no, l- LabeCut, but don't - doesn't, eh, include the H_T_K format to convert
+a lot more computational capability here than they do at O_G_I
+working from an N_T machine
+you're on an N_T machine
+the slash-scratch directory
+do a D_F minus K_
+put stuff in  slash-scratch.  It's more putting in d- s- X_A or X_B or, right
+there's the slash-X_-whatever disks
+then there's slash-scratch
+And if it's called "slash-scratch"
+if you don't have an N_T
+it'll be called "slash-X_-something" uh, if it's not backed up
+it'll be "slash-D_-something" if it  is  backed up
+it's inside the machine on the desk, it's called "slash-scratch"
+then your slash-scratch is gone
+you can put it on slash-scratch because
+just recopy it to slash-scratch
+You could also use slash-X_-whatever disks
+normalization scheme as O_G_I is using
+the labels between TIMIT and Spanish
+the other language because TIMIT have more phone
+Carmen was talking about this SAMPA thing
+a machine readable I_P_A
+the English phonemes and their SAMPA correspondent, um, phoneme
+mapping to the SAMPA phonemes
+the transcription are of SAMPA the same, uh, how you say, symbol that SAMPA appear
+SAMPA
+What does "SAMPA" mean
+But I don't know if TIMIT o- how is TIMIT
+does that mean I_P_A is not really international
+then you also don't know what error they've got on the H_T_K side
+If you're gonna do a K_L Transform on it

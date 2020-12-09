@@ -1,0 +1,117 @@
+M_one O_ seven, M_one O_ eight
+discourse  research
+Meeting Recorder
+pressure zone mikes
+close talking mikes
+the close talk- ng- talking mikes
+far field mikes
+the near field mikes
+the close talking and the far field
+beam-forming
+the L_D_C
+S_R_I
+with U_W
+NIST
+T_I-digits
+common connected digits corpus
+the Powder-Tower
+our G_I_S system
+the Vista mode
+the Enter mode
+Tango mode
+"Tango"
+the Tango mode
+the SmartKom system
+X_M_L M_-three-L_ structure
+those M_-three-L_ structures
+The crude, undifferentiated parse
+modifiers, auxiliaries
+a constrained satisfaction program
+a belief-net
+the Vista
+the Enter
+the Bayes-net
+inference  algorithm
+contextual things
+linguistic things
+discourse things
+a  belief-net
+to Tango with it
+the belief-net
+the conditional probabilities
+these really conceptual  primitives
+Source-Path-Goal
+the M_-three-L_
+The M_-three-L_
+the old SmartKom output
+M_-three- well, M_-three-L_
+Multimedia Mark-up Language
+" Analyzed  speech"
+intention lattices
+intention lattice
+intention lattice k-  Hypothesis
+intention hypotheses
+discourse history
+a Source-Path-Goal
+a W_H focus
+Deep Map
+a granularity factor
+their presumed  purpose  context
+the utterance context
+situational  context
+discourse  context
+D_H
+Discourse history
+the  belief-net
+this three way distinction
+the  belief-nets
+inferential  combination
+the linguistic factors
+the outcome of their belief-net
+the x- subjects
+a  real  wizard system
+situational context factors
+more construction-type-like
+the Wizard
+a candidate for wizard
+speech recognition
+featurize  it
+the presence of a certain uh, stem
+a construction
+belief-net
+"pppt!"
+JavaBayes
+belief-nets
+these data fitting ones
+a first cut
+FrameNet group
+JavaBayes belief-net
+Bayes-nets
+the m-
+M_-three-L_
+the ontology that um, uh the student is - is constructing for me back in - in E_M_L is in OIL
+the ontology
+multi-wave blackboards
+SmartKom system
+M_-three-L_ library
+MATE
+discourse annotations
+from the discourse act down to the phonetic level
+recognizing discourse acts
+the SmartKom
+M_-three-L_ packages
+belief-net package
+a pointer
+Make a first cut
+Pppt
+this  data  file
+the full N_T
+the N_T one
+Swede
+the parameters we need for the  belief-net
+pppt
+Johno's and Bhaskara's great belief-net
+navigational tasks
+the Vista point
+the Tango point
+The Powder-Tower
