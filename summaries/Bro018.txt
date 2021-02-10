@@ -1,0 +1,155 @@
+Yeah, I will try to explain the thing that I did this - this week - during this week.
+Well eh you know that I work - I begin to work with a new feature to detect voice-unvoice.
+to - to the - with this new feature and the fifteen feature
+V_A_D or something like that. And I'm trying two M_L_P, one
+one that only have t- three output,  voice, unvoice, and silence, and
+other one that have fifty-six output.
+The probabilities  of the allophone . And
+I tried to do some experiment of recognition with that
+And I put together the fifteen features and the three M_L_P output.
+And the other three features are R_, the variance of the difference between the two spectrum,
+um yeah one of the differences between voiced, unvoiced and silence is energy.
+Uh but if it's low energy and the spectrum looks like  that,
+as additional inputs, rather than having a separate -
+was looking at something uh ab- um -
+uh about the difference between the - the uh um
+How long does it take, Carmen, to train up one of these nets?
+What are - what are your f- uh frame error rates for - for this?
+Fif- fifty-six percent accurate for v- voice-unvoice
+I think at the frame level for fifty-six that was the kind of number we were getting for - for uh um reduced band width uh
+try adding together the probabilities of all of the voiced phones here and all of the unvoiced phones
+The targets for the neural net,
+uh, they come from forced alignments?
+T_I-digits. And now we have another noisy TIMIT also with the noise of uh Italian database.
+When are they planning -
+I - H- Hynek last week say that if I have time I can to begin to - to study
+well  seriously the France Telecom proposal to look at the code and something like that
+to know exactly what they are doing because maybe that we can have some ideas
+carefully what they are doing with the program  @@  and I begin to - to work also in that.
+@@  I can understand the effect of this, no? because it's to -
+Well. I - I will look to try if I move this parameter in their code what happens,  maybe everything is -
+I - this more or less  anything
+I think that Stephane will arrive today or tomorrow.
+who are going to I_CASSP
+for students to - to present things.
+uh to get a  feel  for things, a range of things, not just  speech.  Uh.
+computational uh speech processing of one sort or another.
+progress, I - I've been getting a - getting my committee members for the quals.
+And um so far I have Morgan and Hynek,
+Then uh I talked a little bit about
+um continuing with these dynamic ev- um acoustic events,
+thinking about a way to test the completeness of
+a - a set of um dynamic uh events.
+for the phones that we're trying to recognize
+And so Morgan and I were uh discussing
+a chosen set of features, or acoustic events,
+and we train up a hybrid
+um system to do  phone  recognition on  TIMIT.
+So i- i- the idea is if we get good phone recognition results,
+using um these set of acoustic events,
+"are we on the right track with - with the -
+the choices of our acoustic events".
+Actually, let me - Hold that thought. Let me back up while we're still on it. The - the other thing I was suggesting, though, is that given that you're talking about binary features,
+uh, maybe the first thing to do is just to  count
+and uh count co-occurrences and get probabilities for a discrete H_M_M
+cuz that'd be pretty simple because it's just - Say, if you had ten - ten events,
+and uh so you could make a table that would - say, if you had thirty-nine phone categories, that would be a thousand by thirty-nine, and just count the co-occurrences and divide them by the - the uh - uh uh occ- uh
+count the co-occurrences between the event and the phone and divide them by the number of occurrences of the phone, and that would give you the likelihood of the - of the event given the phone. And um then just use that in a very simple H_M_M and uh
+onset of voicing and - and end of voicing as being two kinds of events,
+If you just do this by counting, then you should be able to find out in a pretty straightforward way whether you have a sufficient uh set of events to - to do the kind of level of -  of uh classification of phones that you'd like.
+half a dozen people, or so working off and on over a couple years, and
+uh similar -  similar amount of data  to what you're talking about with TIMIT training. So,
+it seems to me that the only reasonable starting point is
+uh to automatically translate the uh
+current TIMIT markings into the markings you want.
+it won't have the kind of characteristic that you'd like, of catching funny kind of things that maybe aren't
+Yeah and a short - short amount of time, just to - again, just to see if that information is sufficient
+to uh determine the phones.
+how different it is, you could maybe take some subset
+I mean uh my - my guess would be that this is - since TIMIT's read speech that this would be less of a big deal, if you went and looked at spontaneous speech it'd be more - more of one.
+and hopefully there should be some point at which
+really all that much more about what the phones are.
+Uh, you  could,  but the thing is, what he's talking about here is a uh - a translation to a per-frame feature vector,
+Yeah, but we're just talking about something simple here,
+So for my class project I'm
+tinkering with uh support vector machines? something that we learned in class, and uh um basically just another method for doing classification.
+And so I'm gonna apply that to
+um compare it with the results by um King and Taylor who did
+um using recurrent neural nets,
+a set of phonological features
+and made a mapping from the M_F_C_C's to these phonological features, so I'm gonna
+Um. So, support vector machines are - are good with dealing with a less amount of data
+um between these two different um classes,
+examples of the features that are closest to the separating boundary, and remembers those
+um these features, or - or these - these  examples,
+if the  new  example falls
+Did the - did they get
+this - this uh feature set called the uh sound patterns of English
+Did you find any more mistakes in their tables?
+Oh! Uh I haven't gone through the entire table,  yet. Yeah, yesterday I brought Chuck
+Is the mapping from N_ to - to this phonological feature called um "coronal" ,
+is - is - should it be - shouldn't it be a one? or should it - should it be you know coronal instead of not coronal as it was labeled in the paper?"
+you have a vector of ones and zeros for each phone?
+f- uh corresponding to whether it exhibits a particular phonological feature or not.
+And so when you do your wh- I'm - what is the task for the class project? To
+Right, um to come up with a mapping from um M_F_C_C's or s- some feature set,
+to whether there's existence of a particular phonological feature.
+And um yeah, basically it's to learn a mapping
+it's - it's basically - it's - it's really simple, basically a detection
+uh phonological features and then later on, once you have these
+then uh map that to phones. So I'm - I'm sort of reproducing phase one of their stuff.
+So um have you had a chance to do
+this um thing we talked about yet with the uh -
+changes to the data in comparing P_L_P and mel cepstrum
+So we talked on the phone about this, that -
+you told me that there was a difference in how the normalization was done.
+And I was asking if you were going to do -
+uh for P_L_P with the normalization done as it had been done for the mel cepstrum.
+What I've been  doing  is
+well it seems like there's a bug,
+just going through and checking the headers of the wavefiles, to see if
+a certain type of compression or something that was done that my script wasn't catching. So that for some subset of
+you know, the - the models would be all messed up. So I was going through and just double-checking that kind of think first,
+there was just some kind of obvious bug in the way that I was computing the features.
+Looking at all the sampling rates to make sure all the sampling rates were what -
+uh, a couple three percent
+normalization that  we  did but with the mel  cepstral  features.
+But yeah the - I sh- think they should be
+I mean the  other  thing I wonder about was whether there was something just in the -
+Yeah see one thing that's a little bit um -
+I was looking - I've been studying and going through the logs for the system that um Andreas created.
+a front-end parameter file. Which talks about the kind of
+Yeah. I've been um, -
+in uh the ICSI front-end features.
+So one thing that I  did  notice, yesterday I was studying the um -
+uh  features  - different number of  filters,  I think,
+uh you  specify,  the  last  ones are gonna be  ignored.  So that - that's a way that you sort of
+then you would be throwing away a  lot  at the two ends.
+Yeah, I went through the Feacalc code and then
+that critical. I mean there's -
+Another  thing I was thinking about was um is there a -
+So that, in effect, what I could  do  is use our code but produce mel  cepstrum
+from people at  some  point,
+One  of the things that I  did   notice  was that the um
+log likelihoods coming out of the log recognizer
+was therefore a little bit  higher
+I would  think  that you might wanna do something like uh
+um a couple of the utterances that  he  had run through,
+if - if that looks  promising  you could, you know, r- uh run
+And the uh the - the run time of the recognizer on the P_L_P features is longer
+which sort of implies that the networks are bushier,
+Yeah, maybe just be different kind of distributions and - and yeah so that's another
+item that once we - once we had it going we would use for a number of the front-end things also.
+tried this mean subtraction method. Um. Due to Avendano,
+where I just used the simulated impulse response
+the error rate went from something like eighty
+forty-one percent error to eight percent error.
+Adam ran the S_R_I recognizer.
+training data, and if they trained
+So probably it should be something we should try then is to - is to see if -
+and then uh use th- use it for the S_R_I system.
+uh a lot of Switchboard, Call Home,
+O- one thing I'm wondering about is what this mean subtraction method
+it's reasonable to expect it would be helpful if we used it with the S_R_I system and
+word error rate on digits is - uh digit strings is not
+you know, sort of in a reasonable range. People would say "yeah, I could - I can imagine getting that".

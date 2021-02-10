@@ -1,0 +1,145 @@
+And then if - Would you do me a big favor, um, maybe Robert, cuz you know how to do this,  that's just  hitting the square? the black square when you're done?
+a fierce argument that broke out over whose tiramisu might be the best and so we decided to have a contest where those people who
+There are -  here  are uh the results.
+Because she was actually - they - there was some uh lapse in the um wireless,
+I'm deciding on going to the concert of the Hindelberg - for the Hindelberg Symphony Orchestra.
+Uh, I'm sorry, something uh seems to have happened to the system. Um, - see if I can help you.
+Can you give me a description of the Powder-Tower, at the Hindelberg castle?
+And um, um, another suggestion, by  Liz,  was that we uh, through subjects, switch the tasks. So when - when they have task-one with the computer, the next person should have task-one with a human, and so forth. So we get nice um data for that.
+And uh my suggestion is of course we - we keep the wizard, because I think she did a wonderful job, in the sense that she responded quite nicely to things that were not
+Um. Johno pointed out that uh we have maybe a grammatical gender problem there with wizard.  So um.
+while partaking in the data
+So  first of all, I agree that um we should hire Fey, and start paying her. Probably pay for the time she's put in as well.
+a- actually was  uh, more
+uh, present and stuff than - than she was in conversation, so she did a  better  job than I would have guessed from just
+Oh, yeah, and then of course as she does it she'll - she'll learn  @@ . So that's great. Um
+she's - actually she's going to graduate school in a kind of an experimental paradigm, so I think this is all just fine in terms of h- her learning things she's gonna need to know
+uh, to do her career. So, I - my guess is she'll be r- r- quite happy to take on that job. And, so -
+And um I told her that we gonna um figure out a meeting time in the near future to refine the tasks and s- look for the potential sources to find people.
+However, we may run into a problem with a  reading  task there.
+Yeah. We could talk to the people who run it and um see if they have a way that they could easily uh tell people that there's a task, pays ten bucks or something, but
+and part of what we should do is this. So,
+my idea on that was
+all - um you know, what the  dialogue  is, and what's going on  linguistically,
+you know re-formulating things, maybe we can get some of the linguists sufficiently interested that they'll  help  us with it,
+But then, the  other  thing of course is we should
+um give the  computer  scientists some idea of - of
+what's going on with the  system  design, and where we think the  belief-nets  fit in and where the  pieces  are and stuff like that.
+other two things is um
+So, what I did for this - this is - uh, a pedagogical belief-net because
+conceptually do what you were talking about with the nodes that you could expand out - so what I did was I took - I made these dummy nodes called Trajector-In and Trajector-Out that
+would isolate the things related to the trajector. And then there were the things with the source and the path and the goal.
+And I separated them out. And then I um did similar things for our - our net to - uh with the context and the discourse and whatnot,
+um, so we could sort of isolate them or whatever in terms of the - the  top  layer.
+And then the bottom layer is just the Mode.
+Yeah, there's just one more node and it says "Mode" which is the decision between the -
+So basically all I did was I took the last  belief-net
+and I grouped things according to what - how I thought they would fit in to
+uh  image  schemas that would be related. And the two that I came up with
+were Trajector-landmark and then Source-path-goal as initial ones.
+you know, we have - we have the concept of what their intention was, whether they were trying to tour or do business or whatever,
+or they were hurried.  That's  kind of related to  that.  And then um
+uh whether the - where I'm  currently  at is a landmark might have a bearing on whether -
+determine whether we'd - could take - we would be telling them to go to the bus stop or versus walking there directly.
+Similar things as the  source  except they also added whether the entity was closed and whether they have somehow marked that is was the final destination.
+in terms of Context, what we had currently said was
+whether they were a businessman or a tourist of some other
+Um, Discourse was related to whether they had asked about open hours or whether they asked about where the entrance was or the admission fee, or something along those lines.
+Um, the Parse would be what verb they chose, and then maybe how they modified it, in the sense of
+whether they said "I need to get there quickly" or whatever.
+and connect these things directly to the Mode.
+Uh. Let me just mention something that I  don't  want to pursue today which is
+So it's possible that we could do something like a summary node of some sort that -
+but to try to  informally  think about what the decision variables  are.
+uh decision about which  mode,
+And the  other  trick, which is not a  technical  trick, it's kind of a  knowledge  engineering trick,
+is to make the n-  each node sufficiently narrow
+that you could characterize the decision as a trade-off between three factors, whatever they may be,
+O_K? and maybe a binary version f- for each, or
+decision node just  above  the final one.
+from the various  inputs  to the things you  care  about.
+given  that we're not gonna screw with the
+uh sort of orthodox  Bayes-nets,  then we have a knowledge engineering little problem of
+uh on Wednesday are going to be able to -
+ad-hoc. This is sort of th- the second
+version and I - I - I - look at this maybe just as a,
+clearly have to be specified m- more carefully and uh
+and uh see if we can
+in thinking about the problem
+a  module,  if you wanna call it that, that you can ask,
+I integrated this into the  existing  SmartKom system in - in the same way as
+will  look  like and what it'll  give  us,
+And this - these uh - this changed now  only  um,
+Um, we'll add some action type, which in this case is "Approach"
+and it will give us then of course an action type of the type "Enter".
+And so in the f- if this pla- if the object type
+uh you can take the M_-three-L_ and
+is add some rules  of the style that are already  there  that say
+Add extra properties, a deterministic rule for every property you have an action, "pppt!"
+then you can get the types from the  ontology,
+No. And this is - just in order to exemplify what - what we can do very, very easily is, um we have
+uh interface and we have
+I - whi- which is sort of what - what we see  here,  which is sort of the Vista, Schema, Source, Path, Goal, whatever. This will
+um be um a job to find ways of writing down
+Image schema, X_schema, constructions, in some - some form,
+and have this be in a - in a - in the content, loosely called "Constructicon".
+And um - and here is exactly where what's gonna be replaced with our Bayes-net, which is exactly getting the input feeding into here.  This  decides
+Approach um construction should be activated,
+Right. But it's  not   construction  there, it's  action.
+uh like parameters for the -
+So that - that uh i- if you had the
+uh, although we haven't worried about this yet, you might wanna worry about something that would
+you know, detailed route planning. So, you know, where do you do take a picture of it and stuff like that.
+So the immediate problem is just deciding w-
+Aspects of the X_schema to add.
+Yeah, so the pro- The  immediate  problem is - is back t- t- to what you were - what you are doing with the belief-net. You know,
+uh what are we going to use to make this decision -
+Right and then, once we've made the decision, how do we put that into the content?
+how are you going to  get  this information
+what the person says and the context and the ontology.
+So, I think that's the hardest problem at the moment is - is
+Um, and that's - so, getting back to here, uh, we have a d- a technical problem with the belief-nets that we - we
+So what we really wanna do i- cuz this is really just the three layer
+So instead of in- instead it should really be - just be "intention" as a node instead of "intention business" or "intention tour".
+And so that you might want to then have those b-
+It's - you know, it's great - is - is, you know, as one step toward uh -
+Also it strikes me that we - we m- may want to approach the point where we can sort of try to find a -
+uh, a specification for some interface, here that um
+takes the normal M_-three-L_, looks at it. Then we discussed in our pre-edu - E_D_U meeting um how to ask the ontology, what to ask the ontology
+you know if we have a - a - a belief-net interface.
+So the belief-net takes as input, a vector, right?
+and then we want to look up some more stuff in the ontology and we want to look up some more stuff
+look up in the dialogue history um some s- some stuff. Based on we - we have uh - I was just made some examples from the ontology
+and we get relations out of it and once we  have  them, we can use  that  information to look in the dialogue history, "were any of  these  things that - that are part of the town hall as an  institution  mentioned?", "were any of these that make the town hall a  building  mentioned?",
+and so forth, and maybe draw some inferences on that. So this may be a - a sort of a process of two to three steps before we get our vector, that we feed into the belief-net, and then -
+There  will  be  rules,  but they aren't rules that come to final  decisions,  they're rules that gather information for a decision process.
+a thread or process or something that "Agent",
+can do things like that. And um there's an issue about whether there will be - that'll be the  same  agent and the one that then goes off and uh carries  out  the decision, so it probably  will.
+My guess is it'll be the same basic agent that um
+run it through a - a c- this belief-net that -
+at what we would call the simulation or action end. So you now know what you're gonna do and
+that may actually involve getting  more  information. So on- once you pull that out, it could be that that says "Ah! Now that we know that we gonna go ask the ontology something else."
+we  know  that's the way it's coming out then we gotta go find out more. So I think that's O_K.
+and, uh, I had one more thing,
+I think we - I - I can come up with a - a code for a module that we call the "cognitive dispatcher",
+which does nothing, but it looks  of complect  object trees and decides how - are there parts missing that need to be filled out, there's - this is maybe something that this module can do, something that this module can do and then collect
+i- This - this is not a complaint, this is a promise to do more work.
+So I'm gonna hafta think about it some more. Um.
+see what we'd  like  to do,
+is the fact that w- if you know about source - source,  paths   and goals, and nnn  all this sort of stuff,
+for different tasks. And that -
+uh cognitive  linguistics  to  get powerful generalizations.
+where we get some slightly different -
+The Bayes-nets will be dec- specific for each decision. But what I'd like to be able to do
+um a kind of intermediate representation which looks the same o- over a bunch of inputs and a bunch of outputs.
+So all sorts of different tasks
+pushing it one step further, when you get to construction grammar and stuff, what you'd like to be able to do is say you have this  parser  which is much fancier than the parser that comes with
+You might be able to - to uh
+the construction  implies  the there's a con- this thing is being viewed as a  container.
+you know that you're gonna  hafta  treat it as a container you might as well go off and get that information. And that may effect the way you process everything else.
+that involve the castle as a  container
+It's unfortunate also that English has sort of got rid of most of its spatial adverbs
+for these kinds of analysis.
+Yeah, but they're - they're easier for  parsers.  Parsers can pick those up but - but the - with the spatial adverbs,
+that generalize over those problems, and are
+"X_" that we may use for the decision making,

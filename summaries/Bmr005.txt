@@ -1,0 +1,202 @@
+I'm gonna collect the digit forms and write it down.
+you know, it doesn't seem like a bad idea to have  that information.
+Uh, we - I think the things that we talk about in this meeting
+uh tend to be a mixture of uh procedural uh mundane things and uh research points
+and um I was  thinking
+So  uh I'm suggesting we turn it around and - and uh sort of we have - anybody has some
+the one th- one thing I  know  that we have on that is uh we had talked a - a couple weeks before um
+uh about the uh - the stuff you were doing with - with uh
+So  at any rate  you were - you've - you've done some work on that and um
+then the other thing would be it might be nice to have a preliminary discussion of some of the other uh research
+uh areas that uh we're thinking about doing.
+uh and  one  of the things I know that  also  came up uh is some discussions that - that uh - that uh Jane had with Lokendra
+Uh.  Well, I don't know if we - if this is sort of like everybody has something to contribute sort of thing, I think there's just just a couple - a couple people primarily um but um
+Actually I think that - that last one I just said we could do fairly quickly so why don't you - you start with that.
+Um, so, uh, he was interested in the question of - you know, relating to his - to the research he presented recently,
+um of inference structures, and uh, the need to build in, um,
+but  also  the - the - the causal aspects of the uh floor and - and how it might have been the  cause  of the fall and that
+I looked through the transcript that we have so far,  and um, fou- identified a couple different types of things of that type and um,
+um, w- we had gone through the part where everyone said which channel they were on and which device they were on,
+um, "ahead of the game" is sp- speaking with respect to space limitations, that um that in fact downsampling is gaining us enough space, and that therefore we can keep the recording we've done so far.
+um we were trying to think of ways that  his  interests could interact with ours and um
+in or- before we invested too much uh effort into that he should uh, with Jane's help, look
+into some of the data that we're - already  have
+I mentioned several that w- had to do with implications drawn from intonational contours and  that wasn't as directly relevant to what he's doing.
+And I imagine that transcripts of speech - I mean text that is speech - probably has more of those than sort of prepared writing. I - I don't know whether it would or not, but it  seems  like it would.
+speech understanding of  any  sort.
+Right, so it's great. So this is really great because the  thing  is, because he's looking at the per- even for addressees  in  the conversation, I bet you could pick that up in the acoustics. Just because your gaze is also correlated with the directionality of your voice.
+Yeah, if you have the P_Z_Ms you should be able to pick up
+You know, I asked her very specifically about this clause of how, um, you know, it says "no individuals will be identified  uh, "in any publication using the data." O_K, well, individuals being identified, let's say you have a - a snippet that says,
+Then the issue of - of being able to trace Joe, because we know he's well-known in this field, and all this and - and tie it to the speaker,
+audio and the written every time someone says a name.
+Um, I - I would like to move it into - into uh what Jose uh has been doing because he's actually been doing something. So.
+O_K. I - I remind that me - my first objective eh, in the project is to - to study difference parameters to - to find a - a good solution to detect eh, the overlapping zone in eh speech recorded.
+I begin to - to study and to analyze the ehn - the recorded speech eh the different session to - to find and to locate and to mark eh the - the different overlapping zone.
+And eh so eh I was eh - I am transcribing the - the first session and I - I have found eh, eh one thousand acoustic events,
+eh  besides  the overlapping zones,
+I will find eh, eh, a good eh parameters eh to detect overlapping I would like to - to - to test these parameters eh with the - another eh, eh acoustic events,
+to nnn -  to eh - to find what is the ehm - the  false   - eh, the false eh hypothesis eh, nnn, which eh are produced when we use the - the ehm - this eh parameter - eh I mean pitch eh, eh, difference eh, feature -
+I think some of these um that are the nonspeech overlapping events
+but eh my - my objective eh will be eh to study eh overlapping zone.
+How many overlaps were there uh in it?
+How many? Eh almost eh three hundred eh in one session in five - eh in forty-five minutes.
+Alm- Three  hundred   overlapping zone.
+Does this - ? So if you had an overlap involving three people, how many times was that counted?
+I - I - I con- I consider - I consider eh an acoustic event, the overlapping zone, the period where three speaker or eh - are talking together.
+For me is the overlapping zone, because -
+So i- if two or more people are talking.
+Yeah. So I think - Yeah. We just wanted to understand how you're defining it. So then,
+in  between  regions where there is only one person speaking. And one contiguous region like that you're calling an event.
+But eh I - I don't  distinguish   between the - the numbers of eh speaker.
+For me, it's eh - it's eh, all overlap zone,
+with eh several numbers of speakers is eh, eh the same acoustic event.
+Wi- but - uh, without any mark between the zone -
+of the overlapping zone with two speakers eh speaking together,
+Because eh  for me, is the -
+I don't  know  what eh will - will happen with the -
+Uh- huh.  O_K. Yeah. So that's about eight per minute.
+eh I - I would like to - to do a stylistic
+um, for example, eh if eh we use the ehm - the mixed file, to - to transcribe,
+It's right. But the problem is  the following.
+and you use the eh speech file collected by the eh  fet  mike,
+to do the experiments  with the - the system,
+its possible to evaluate eh, eh - or to consider eh acoustic events that -
+The - the reason that I generated the mixed file was for
+I_B_M to do  word  level transcription, not speech event transcription.
+So I agree that if someone wants to do  speech  event transcription, that
+if you wanna find all the places where there were overlap, it's probably better to use a distant mike. On the other hand,
+Although the  other  issue is that the  mixed close-talking mikes - I mean, I'm doing weird normalizations and things like that.
+So if you wanted to study people overlapping people, that's not a problem.
+a lot of eh,  eh for example, in the overlapping zone,
+if - if your concern is to get uh the overlapping people - people's speech, you will - you will get that somewhat better. Um,
+I - I - I want to use to - to nnn,  eh
+about the zone where eh there are eh - there is an overlapping zone.
+But eh there isn't any - any mark,
+to - to c- eh - to mmm  - e-heh, to label
+the beginning and the end of the - of the ta-
+to -  to segment eh and label eh twelve minutes from a session of part -
+So  let me back up again. So the - when you said there were three hundred speaker overlaps, that's in twelve minutes?
+No no no. I - I consider all the - all the session because eh I - I count the nnn - the nnn - the overlappings marked by - by Jane,
+So, can I ask -  can I ask whether you found - uh, you know, how accurate
+you know, did she miss some overlaps? or did she n- ?
+I have eh errors in the - in the marks,
+show  the exact point of interruption, you just were showing at the level of the phrase or the level of the speech spurt, or -
+Well, yeah, b- yeah, I would say time bin. So my - my goal is to get words with reference to a  time   bin,   beginning and end point. And - and sometimes, you know, it was like you could have an overlap where someone said something in the  middle,  but,
+but in the interests of making progress, uh might I s- how - how would it affect your time if you only marked speaker overlaps?
+Yes. Do not mark any other events, but only mark speaker -  Do you think that would speed it  up  quite a bit?
+Do y- do you think that would speed it up?
+On- only to mark - only to mark overlapping zone, but -
+Whereas th- i- I would  think  that uh you - we can study  more  or less as a distinct phenomenon the overlapping of people talking.
+Then you can get the - Cuz you need - If it's three hundred uh - i- i- it sounds like you probably only have fifty or sixty or seventy
+such as the energy in the L_P_C residuals, such as -  I mean there's a bunch of things -
+What I mean is  get it from the  close-talking  mikes.
+then  do your simple measurements, uh from the close-talking mike.
+I'm working on a program to do that, and -
+um, that you can get the  training  data for pretty quickly is, you know, if you infer form the close-talking mikes where the on-off points are of speech, you know, how can we detect that from a far-field?
+And, it seems to work, I've - I'm sort of fiddling with the parameters,
+and I haven't - I don't - what I'm working on -  was  working on - was getting it to a form where we can import it into the user interface that we have,  into Transcriber.
+give somebody a chance to actually look at the data and see what these are like,
+Well, it's definitely good to have somebody look at it. I was just thinking as a way to speed up
+Another  thing we discussed was um that -
+if uh - if he could speed up what he was doing by just getting the speaker overlaps so that we had it, say, for forty-five minutes,
+You know, I did - I did uh something almost  identical  to this at one of my previous jobs, and it works pretty  well.  I mean, i- almost exactly what you described, an energy detector with a median filter, you look for runs.
+I was doing pretty short, you know, tenth of a second,  sorts of numbers.
+Um, I'd expect like there should be seventy-five overlaps. Did you find
+uh  more  than seventy-five overlaps in that period, or - ?
+Onl- only I - I transcribe eh only twelve minutes
+So - so I was gonna ask, I guess about any - any other things that - that - that either of you wanted to talk about, especially since
+like  how many meetings are we recording and -
+That piece was then uh sent to I_B_M so  they  could transcribe so we have some comparison point.
+Ten meetings that have been sent to I_B_M?
+H- how many total have we recorded now, altogether?
+We're  saying about  twelve hours.
+Uh, they  do.  w- w- And we talked to them about recording some more and we're going to,
+uh, we've started having a morning meeting, today uh i- starting a w- a week or two ago, on the uh front-end issues, and we're recording those,
+uh there's a network services and applications group here who's agreed to have their meetings recorded,
+and we're gonna start recording them. They're - They meet on Tuesdays. We're gonna start recording them next week.
+So actually, we're gonna h- start having a - a pretty significant chunk and
+So right now, yeah, I th- I'd say the data is predominantly meeting meetings,
+i- if we're - if we collect fifty or sixty hours, the meeting meetings it will probably be, you know, twenty or thirty percent of it, not - not - not eighty or ninety. But.
+So there's probably - there's three to four a week,
+Uh in fact, the  morning  group is  really  motivated cuz they're working on connected digits, so it's -
+definitely s- so- Absolutely. Yeah, whoever we have working on
+this uh reading of the numbers would be extremely helpful to do um adaptation. Um.
+I - I would really like someone to do adaptation.  So if we got someone interested in that, I think it would be  great  for Meeting Recorder.
+to  Don  about, is one of the possible things he could do or m- also, we could have someone else do it,
+is to do block echo cancellation,
+Someone may be moving enough that you are not able to adapt quickly and so the tack that we've taken is more "lets come up with feature approaches and multi-stream approaches and so forth, that will be  robust  to it for the recognizer and not try to create a clean signal".
+But it occurred to me a few months ago that uh
+good to sort of  test  them, actually. And so we haven't had anybody try to do a good serious job on echo cancellation and
+that's something I'd like somebody to do at some point, just take these digits, take the far-field mike signal, and the close
+uh mike signal, and apply really good echo cancellation. Um,
+there was a - have been some nice talks recently by - by Lucent on - on their b-
+uh parts of the signal that were the aspects of the signal that were different between the close-talk and the distant.
+um gets uh uh - gets subtracted off from the original speech.
+some kind of a special speaker phone and when they would first connect me,
+uh  anyway  that's - that's kind of a reasonable thing that I'd like to have somebody try - somebody look - And -
+to  do  that with. I think that'd be enough data - plenty of data to do that with, and
+uh i- i- where people might change their position, and there might be, you know -
+Then we'll figure out the right - the right set of weights for your taps for your filter in order to produce the effect of those - those echos.
+is corrupted so that it's decision about what the right -
+And so, in a  noisy  situation,
+So for those kind of reasons,
+Um, that's difficult because um
+um, concluded we didn't want to in- do inversion, and we're even pretty skeptical of echo cancellation, which isn't really inversion,
+and um we decided to do this approach of taking - uh, just picking
+uh features, which were -
+So, um, let me just say a couple things that I was - I was gonna
+valid for a certain number of meetings.  She  wanted me to actually estimate how many meetings and put that on the consent form.
+uh that - that is transcribed, we have - we have twelve hours that's recorded but not transcribed,
+well, similar to what we talked about with uh
+energy detection on the close-talking mikes. There are a number of
+interesting questions that you can ask about how interactions happen in a meeting, that don't require any transcription. So what are the patterns, the energy patterns over the meeting?
+And I'm really interested in this
+Right? So, I th- I think that if we are able to keep that up
+for a few months, we  are  gonna have more like a hundred hours.
+record,  especially  meetings that have some kind of conflict in them  or some kind of deci-
+that uh there's uh - It - it oc- it occurred to me that we might be able to get some additional data
+by talking to uh acquaintances in local broadcast media.
+Um and so I do think we're gonna continue recording here and record what we  can.
+But um, it  did  occur to me that we could go to friends in broadcast media and say "hey you have this panel show,  or this - you know, this discussion show, and um can you record multi-channel?"
+I - I - I - I was thinking of looking into that.
+the  other  thing that occurred to me  after  we had that discussion, in fact, is that it's  even   possible,  since of course, many
+Um, I think that'd be fantastic cuz those kinds of panels and -  Those  have interesting
+the radio stations and television stations already have stuff worked out
+it's something we should look into, you know, we'll collect what we collect here hopefully they will collect more at U_W also
+and um - and maybe we have this other source. But yeah I think that it's not unreasonable to aim at
+getting, you know, significantly in excess of a hundred hours. I mean, that was sort of our goal.
+in the - under this controlled situation we could at  least  collect, you know, thirty to fifty hours.
+And if we continue to collect some next semester, I think we should,
+Right. Yeah I was mostly trying to think, "O_K, if you start a project,
+right  now  - and we don't have the transcripts back yet from I_B_M right?
+Yeah. So I was thinking right now it's sort of this exploratory stuff where you - you look at the data, you use some primitive measures and get a feeling for what the scatter plots look like, and -
+uh for instance this guy who seems -
+Um, I mean the transcriptions I think are a bit of an unknown cuz we haven't gotten those back yet as far as the timing,
+we  should  have at least something like, you know, twenty-five, thirty  hours.
+uh  used  to dealing with multi-channel uh transcriptions. So I think that we'll need to adjust some - And also if we wanna add things like
+I wanted to ask another a- a- aspect of the data collection.  There'd be no reason why a person couldn't get together several uh, you know, friends, and come and argue about a topic if they wanted to, right?
+uh,  one  string of digits, or something, they'd probably be willing to do.
+politically  better for us to say we have this many hours of audio data,  especially  with the I_T_R, if we put in a proposal on it. It'll just look like ICSI's collected a lot more
+audio  data. Um, whether it's transcribed or not
+um, is another issue, but there's -
+levels of detail in meetings. One is uh
+d- Do you have any idea when - when uh the - you'll be able to send uh the ten hours to them?
+Yeah, O_K. So early next week we send it to them, and then - then we check with them to see if they've got it and we - we start, you know
+asking about the timing for it. So I think once  they  get
+it sorted out about how  they're  gonna do it, which I think they're pretty well along on, cuz they were able to read the files and so on. Right?
+is doing it, and uh
+Right. What about these lunch meetings - I mean, I don't know, if there's any way without too much more overhead, even if we don't ship it right away to I_B_M even if we just collect it here for awhile,  to record
+you know, two or three more meeting a week, just to have the data, even if they're
+Alright,  so I'll just throw it out there, if anyone knows of one more m- or two more wee- meetings per week that happen at ICSI, um
+two speech meetings, one uh network meeting,
+w- um, I know that you don't want
+it  does  seem to me that we might be able to get subjects from campus to come down and
+do  something  that wouldn't be too artificial. I mean, we could - political discussions, or - or  something  or other, and
+a- and it just seems like maybe we could exploit the subj- human subject p- p- pool, in the positive sense of the word.
+So I - I mean I talked with some people at the Haas Business School who are i- who are interested in speech recognition
+we decided we're not really interested and we don't wanna come down and hold meetings."
+But - but we c- But I think, you know, we get some scattered things from this and that. And I - I d- I  do  think that
+Right, that's the found data idea. But what I'm saying is uh if I talk to people that I know who  do  these th- who  produce  these things we could ask them if they could record an extra channel,
+And u- I think  routinely  they would not  do  this.
+So, since I'm interested in the distant  mike  stuff, I wanna make sure that there is at least  that   somewhere
+Um. We're getting towards the end of our disk space, so we should think about trying to wrap up here.
