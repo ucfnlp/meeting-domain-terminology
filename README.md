@@ -32,10 +32,10 @@ We additionally report the results for the system summaries (human and ASR) obta
 
 Original ASR results in COLING paper (3 human references, stopwords removed):
 
-| | | R-1 P | R-1 R | R-1 F | R-2 P | R-2 R | R-2 F | R-SU4 P | R-SU4 R | R-SU4 F |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| ASR | Ours (w/o Jargon) | 41.7 | 55.1 | 46.8 | 15.1 | 20.5 | 17.2 | 18.7 | 25.3 | 21.3 |
-| | Ours (w/ Jargon) | 39.7 | 57.5 | 46.6 | 15.1 | 21.9 | 17.7 | 18.2 | 26.5 | 21.4 |
+| | R-1 P | R-1 R | R-1 F | R-2 P | R-2 R | R-2 F | R-SU4 P | R-SU4 R | R-SU4 F |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Ours (w/o Jargon) | 41.7 | 55.1 | 46.8 | 15.1 | 20.5 | 17.2 | 18.7 | 25.3 | 21.3 |
+| Ours (w/ Jargon) | 39.7 | 57.5 | 46.6 | 15.1 | 21.9 | 17.7 | 18.2 | 26.5 | 21.4 |
 
 Updated ASR results (single human reference, stopwords removed):
 
