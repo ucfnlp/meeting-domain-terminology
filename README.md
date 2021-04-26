@@ -28,14 +28,12 @@ __Start__ | __End__ | __Spoken Utterance__
 
 The ROUGE scores reported in this paper were obtained by running [pyrouge] (https://pypi.org/project/pyrouge/) against a single human reference summary using ROUGE options `-c 95 -n 2 -a -s -m -2 4 -u`, where `-s` indicates stopwords are removed from system and reference summaries. It was later found that the scores for the ASR summaries were obtained by running pyrouge against three human reference summaries. We report the corrected ASR results run on the single human reference summary (with stopwords removed) below.
 
-We additionally report the results for the system summaries (human and ASR) obtained by running pyrouge against three human references, with stopwords not removed below.
-
 Original ASR results in COLING paper (3 human references, stopwords removed):
 
-| | R-1 P | R-1 R | R-1 F | R-2 P | R-2 R | R-2 F | R-SU4 P | R-SU4 R | R-SU4 F |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Ours (w/o Jargon) | 41.7 | 55.1 | 46.8 | 15.1 | 20.5 | 17.2 | 18.7 | 25.3 | 21.3 |
-| Ours (w/ Jargon) | 39.7 | 57.5 | 46.6 | 15.1 | 21.9 | 17.7 | 18.2 | 26.5 | 21.4 |
+| | | R-1 P | R-1 R | R-1 F | R-2 P | R-2 R | R-2 F | R-SU4 P | R-SU4 R | R-SU4 F |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| ASR | Ours (w/o Jargon) | 41.7 | 55.1 | 46.8 | 15.1 | 20.5 | 17.2 | 18.7 | 25.3 | 21.3 |
+| | Ours (w/ Jargon) | 39.7 | 57.5 | 46.6 | 15.1 | 21.9 | 17.7 | 18.2 | 26.5 | 21.4 |
 
 Updated ASR results (single human reference, stopwords removed):
 
@@ -44,14 +42,7 @@ Updated ASR results (single human reference, stopwords removed):
 | ASR | Ours (w/o Jargon) | 51.0 | 54.0 | 50.4 | 18.9 | 20.2 | 18.9 | 23.4 | 25.0 | 23.3 |
 | | Ours (w/ Jargon) | 49.7 | 56.8 | 50.8 | 19.9 | 22.5 | 20.2 | 23.2 | 26.8 | 23.8 |
 
-Additional results with three human reference summaries, stopwords not removed:
 
-| | | R-1 P | R-1 R | R-1 F | R-2 P | R-2 R | R-2 F | R-SU4 P | R-SU4 R | R-SU4 F |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Human | Ours (w/o Jargon) | 56.9 | 76.8 | 64.1 | 30.0 | 41.1 | 34.0 | 34.6 | 47.2 | 39.2 |
-| | Ours (w/ Jargon) | 52.6 | 81.0 | 62.5 | 29.4 | 46.1 | 35.2 | 33.3 | 51.9 | 39.7 |
-| ASR | Ours (w/o Jargon) | 54.3 | 75.5 | 61.6 | 26.3 | 37.8 | 30.3 | 32.0 | 45.6 | 36.8 |
-| | Ours (w/ Jargon) | 51.3 | 78.6 | 61.3 | 25.7 | 39.9 | 30.9 | 30.7 | 47.6 | 36.9 |
 
 
 
