@@ -26,7 +26,7 @@ __Start__ | __End__ | __Spoken Utterance__
 
 ## Errata
 
-The ROUGE scores reported in this paper were obtained by running [pyrouge] (https://pypi.org/project/pyrouge/) against a single human reference summary using ROUGE options `-c 95 -n 2 -a -s -m -2 4 -u`, where `-s` indicates stopwords are removed from system and reference summaries. It was later found that the scores for the ASR summaries were obtained by running pyrouge against three human reference summaries. We report the corrected ASR results run on the single human reference summary (with stopwords removed) below.
+The ROUGE scores reported in this paper were obtained by running [pyrouge](https://pypi.org/project/pyrouge/) against a single human reference summary using ROUGE options `-c 95 -n 2 -a -s -m -2 4 -u`, where `-s` indicates stopwords are removed from system and reference summaries. It was later found that the scores for the ASR summaries were obtained by running pyrouge against three human reference summaries. We report the corrected ASR results run on the single human reference summary (with stopwords removed) below.
 
 Original ASR results in COLING paper (3 human references, stopwords removed):
 
